@@ -1,0 +1,2916 @@
+{  
+
+    "CratfData": {
+
+
+
+             "AdsController":[
+			                  { 
+							  
+      "NetworkAds": "facebook",
+
+      "AdmobID": "ca-app-pub-3487361047412343~7284622751",
+      "BannerAdmob": "ca-app-pub-3487361047412343/5266864505",
+      "InterstitialAdmob": "ca-app-pub-3487361047412343/6804658522",
+      "NativeAdmob": "",
+
+      "BannerFacebook": "186872766691670_187523919959888",
+      "InterstitialFacebook": "186872766691670_187524583293155",
+      "NativeFacebook": ""
+
+								}
+			
+			            ],
+			
+            "map":[
+                
+                  {  
+      "id":159,
+      "title":"The Monster Arena",
+      "category":"Survival",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/159/TheMonsterArena.zip",
+      "description":"Fight endless waves of mutated monsters in The Monster Arena. Take part fun and intense monster battles, but keep in mind that it’s very challenging as there’s no way to stop the monsters from spawning once you’ve entered the arena. Due to its difficulty it’s recommended to play together with other players, but you can also play it in single player.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/mob-arena-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/mob-arena-2.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":160,
+      "title":"Wilzon City",
+      "category":"Creation",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/160/Wilzon_City_Update_3_12192017.zip",
+      "description":"This modern city was created entirely from imagination. The structures and buildings in this map are really unique which makes the entire city really pop and stand out. Wilzon City is still under heavy development, so this means that certain areas aren’t fully developed. The architecture is quite impressive though with lots of unique builds and different styles.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/wilzon-city-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/wilzon-city-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/12/wilzon-city-4.jpg"
+
+      
+   },
+   {  
+      "id":161,
+      "title":"SG Minigame Festival",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/161/Christmash.zip",
+      "description":"This is the second installment of the popular Minigame Festival series. This map contains three different minigames such as Package Hunt and Christmas Rush. It’s best if you can get a friend (or several) to play with as the games have been designed for multiplayer. Get ready for Christmas with these awesome Christmas themed minigames!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/skygames-christmas-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/skygames-christmas-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":162,
+      "title":"Blue Topia",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/162/0_BlueTopia_9_5=.zip",
+      "description":"Blue Topia is a an amazing city with more than 300 buildings with detailed interiors. There are plenty of different areas worth exploring. Such as Chinese palaces, historical constructions, a Fun Land and tons of others things which are fun to visit. Blue Topia is without doubt one of the most detailed cities available for Minecraft: Bedrock Edition.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/submission-files/34586_2018-03-14/BlueTopia-Preview-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/submission-files/34586_2018-03-14/BlueTopia-Preview-6.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/submission-files/34586_2018-03-14/BlueTopia-Preview-9.jpg"
+
+      
+   },
+   {  
+      "id":163,
+      "title":"SG Space Fighters",
+      "category":"PvP",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/163/Space Fighters.zip",
+      "description":"Attack your enemy team with levitating force and infiltrate their base. If you step in their base – you win! Keep your base guarded though! Use your bow to keep the enemy back, Be careful. You only have one life!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/space-battles-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/space-battle-2-e1534522848372.jpg",
+			"preview3":""
+
+      
+   },
+    {  
+      "id":204,
+      "title":"cs_italy (Team Deathmatch)",
+      "category":"PvP",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/204/cs_italy.zip",
+      "description":"cs_italy. one of the most iconic maps, a very special map that has an opera radio playing in Terrorist spawn point. This map may contain nostalgia because of the radio! cs_italy, one of the best hostage rescue maps in Counter-Strike 1.6! The map is set on Team Deathmatch mode. Thanks to DemonRealm, they gave me permission to edit ALL their cs maps. The map was from PC but thankfully ported by Billeyzambie and then I re-edited the map to make it better and more “accurate” version of cs_italy. The map contains food in the middle just like CS 1.6!",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/970/images/csitaly_3.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/970/images/csitaly_2.png",
+            "preview3":"https://my.mcpedl.com/storage/worlds/970/images/csitaly-team-deathmatch_2.png"
+
+      
+   },
+   {  
+      "id":205,
+      "title":"Funtopia World",
+      "category":"Creation",
+      "new":true,
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/205/Funtopia World.zip",
+      "description":"Funtopia World is the biggest map ever made and it is the combination of all buildings and creations you normally see in different maps! Funtopia World includes a huge theme park built by only three people and an enormous city. The theme park features a wide range of attractions such as plenty of fun roller coasters and water slides. The city consists of plenty of regular buildings, but also special buildings with a lot of activities and much more to explore! There are really endless of fun possibilities for what you can do in Funtopia World!",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/305/images/funtopia-world-theme-park--city-roller-coaster-creation_2.jpg",
+            "preview2":"https://my.mcpedl.com/storage/worlds/305/images/funtopia-world-theme-park--city-roller-coaster-creation_3.jpg",
+            "preview3":"https://my.mcpedl.com/storage/worlds/305/images/funtopia-world-theme-park--city-roller-coaster-creation_3.png"
+
+      
+   },
+   {  
+      "id":206,
+      "title":"FNAM:Overnight",
+      "category":"Minigame",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/206/FNAM_Overnight.zip",
+      "description":"FNAM:Overnight is a free roam type, you have to stay from 12am to 6am and keep an eye on everything because even the animatronics will chase you at nights! Also this is a prequel game of Five Nights At Maxie’s How to play?(If you read this then good) You have to survive until 6am which takes around 6 minutes you even must wind up the music box for a single animatronic because if you won’t, well bad things will happen!",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3221/images/fnamovernight_2.jpg",
+            "preview2":"https://my.mcpedl.com/storage/worlds/3221/images/fnamovernight_3.jpg",
+            "preview3":"https://my.mcpedl.com/storage/worlds/3221/images/fnamovernight_4.jpg"
+
+      
+   },
+   {  
+      "id":207,
+      "title":"Bubble Bobble",
+      "category":"Minigame",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/207/Bubble Bobble.zip",
+      "description":"If you want to play a 2D arcade game then this one is the right for you Bubble Bobble this time is a mini game than an addon! You can play this game alone or even with a friend in this 2-player game or 1 player if you want! It’s also easy to play on both devices, since it has automatic shooting! It also includes custom music just like in the game of Bubble Bobble 2!",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3264/images/bubble-bobble-minigame_2.jpg",
+            "preview2":"https://my.mcpedl.com/storage/worlds/3264/images/bubble-bobble-minigame_3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":209,
+      "title":"The Cave 2",
+      "category":"Adventure",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/209/The-Cave.zip",
+      "description":"You thought you had escaped… but more adventures await. Play the sequel of “The Cave”, and try to escape with your life. Use your wits, skills, and knowledge to escape for the second and final time. A continuation of “The Cave”. You leave the elevator that gave you hope once, but now just leads you toward another part of this vast cave.  Objective: Find an exit that is not filled with lies ",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3282/images/the-cave-2-puzzle-parkour-adventure_2.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/3282/images/the-cave-2-puzzle-parkour-adventure_3.png",
+            "preview3":"https://my.mcpedl.com/storage/worlds/3282/images/the-cave-2-puzzle-parkour-adventure_4.png"
+      
+   },
+   {  
+      "id":210,
+      "title":"Welcome To Galendor",
+      "category":"Adventure",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/210/WelcomeToGalendor.zip",
+      "description":"Welcome To Galendor is the Corrupted Minecraft map that just wouldn’t die. Having undergone a world-shattering chunk corruption, and thousands of hours of obsessive level design, Welcome To Galendor is now a massive adventure map with two game modes: QUEST MODE: 1-4 players, 30+ storyline-driven quests!  CONQUEST MODE:  1-4 teams battle for control of 5 Conquest Beacons spread across the realm!",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3144/images/welcome-to-galendor-quest-or-conquest_13.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/3144/images/welcome-to-galendor-quest-or-conquest_12.png",
+            "preview3":"https://my.mcpedl.com/storage/worlds/3144/images/welcome-to-galendor-quest-or-conquest_11.png"
+
+      
+   },
+   {  
+      "id":11,
+      "title":"VerseCrafter: The Beginning",
+      "category":"Adventure",
+      "rating":2.5,
+      "link":"https://worldofskins.org/maps/verse/VerseCrafter Chapter 1.zip",
+      "description":"VerseCrafter: The Beginning is the first map in a series of multiple maps to come. It’s a quite fun map with multiple levels and a story which goes with it. The story goes as following. You’ve lost your memory and to get it back you need to complete 7 different stages to reach the hall of memories.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2016/09/versecrafter-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2016/09/versecrafter-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2016/09/fullmap.jpg"
+
+   },
+   {  
+      "id":12,
+      "title":"Apocalyptic City",
+      "category":"PvP",
+      "rating":4.1,
+      "link":"https://worldofskins.org/maps/11/PortedBy@MrMvBPE.zip",
+      "description":"This map is a survival games world set in an apocalyptic city which is suitable for anyone who is a fan of The Walking Dead or just find apocalyptic worlds fascinating in general. Personally, I think exploring the map is half the fun even though its main usage is supposed to be for PvP.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/apocalypse-now-world-9.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/apocalypse-now-world-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/apocalypse-now-world-1.jpg"
+   },
+   {  
+      "id":13,
+      "title":"17×17 Piston House",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/12/17x17 piston house.zip",
+      "description":"This house features a bunch of different redstone creations (and they are not just piston mechanisms). Also, it is larger than it looks like on the outside since you’ll be able to access hidden basement and so on. As a whole it includes a good variety of redstone creations. Everything from automated food farms to a library which functions as an area for enchanting.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/17x17-piston-house-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/17x17-piston-house-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/17x17-piston-house-4.jpg"
+      
+   },
+   {  
+      "id":14,
+      "title":"Lights Out",
+      "category":"Puzzle",
+      "rating":3.5,
+      "link":"https://worldofskins.org/maps/13/Lights Out by JHOMES.zip",
+      "description":"Lights Out is a new type of puzzle in which you have to stand on different pressure plates to ultimately disable all of the lights. Even though it looks very basic I have to admit that it was pretty fun to actually play it. If you are looking for a challenging but logic puzzle then I definitely recommend it!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/lights-out-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/lights-out-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/lights-out-1.jpg"
+
+   },
+   {  
+      "id":15,
+      "title":"FindtheButton",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/14/FindTheButtonbyCHKGIRL.zip",
+      "description":"The objective is to find and press a button in each room in order to unlock a door which leads to the next level. In that sense it’s a fairly simple objective but it’s actually easier said than done. There are 15 different levels and by each level it gets more difficult. But since there’s no time restraint it shouldn’t be too difficult to complete.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/findthebutton-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/findthebutton-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/findthebutton.jpg"
+      
+   },
+   {  
+      "id":16,
+      "title":"Rapido",
+      "category":"Parkour",
+      "rating":3.5,
+      "link":"https://worldofskins.org/maps/15/parkour-rapido",
+      "description":"Rapido is a fairly short parkour map which should take somewhere between 10 to 15 minutes to complete. It includes mostly challenges related to parkour but also a couple of archery levels. It’s suitable for anyone who is a parkour beginner in Minecraft and want to see how far their legs can get them.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/rapido-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/rapido-3.jpg",
+			"preview3":""
+
+   },
+   {  
+      "id":17,
+      "title":"Gravity Falls",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/16/IwMAAAj6AAA=.zip",
+      "description":"Gravity Falls is the title of an animated television series. It’s centered around two characters by the title of Dipper and Mabel who have gone to spend their summer with their uncle who runs a tourist business there called the Mystery Shack. Slowly they will start to unravel mysteries such as paranormal activities and supernatural creatures.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/gravity-falls-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/gravity-falls-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/gravity-falls-3.jpg"
+
+   },
+   {  
+      "id":18,
+      "title":"Abandon (Horror!)",
+      "category":"Adventure",
+      "rating":4.3,
+      "link":"https://worldofskins.org/maps/17/Abandon.zip",
+      "description":"This is a demo version for a horror map which is expected to come some time in March next month. It takes somewhere around 10-15 minutes to play through but it’s nonetheless a good experience with a couple of different scares (which I won’t spoil here) and cool features such scary horror sounds.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/abandon-horror-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/abandon-horror-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":19,
+      "title":"Rock-Paper-Scissors",
+      "category":"Redstone",
+      "rating":4.1,
+      "link":"https://worldofskins.org/maps/18/Rock.Paper.Scissor by Jhomes.zip",
+      "description":"Rock-paper-scissors is a simple game which usually requires just two hands. But since your hands in Minecraft don’t offer the same flexibility as in real life some things, such as rock-paper-scissors gets impossible to play. But don’t worry! Here is a redstone solution which lets you play the game in Minecraft as well.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/rock-paper-scissor-map-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/rock-paper-scissor-map-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/rock-paper-scissor-map-2.jpg"
+
+   },
+   {  
+      "id":20,
+      "title":"Snowy Hell 2",
+      "category":"CTM",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/19/Snowy Hell 2 (v1.4).zip",
+      "description":"Snowy Hell 2 is an amazing challenge for anyone who consider themselves a good fighter and is looking for a new adventure. It’s a complete the monument map which basically means that you need to retrieve a number of blocks to complete a monument and as a result complete the map. There were several times in the map that I just stood in awe and marveled at the magnificent terrain. It’s really something unique to experience!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/snowy-hell-2-7.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/snowy-hell-2-6.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/snowy-hell-2-5.jpg"
+   },
+   {  
+      "id":21,
+      "title":"DarkLegends",
+      "category":"Redstone",
+      "rating":3.0,
+      "link":"https://worldofskins.org/maps/20/DarkLegends_v1.4.zip",
+      "description":"DarkLegends is a really cool and secure base which is entirely powered by redstone. There are more than 20 different redstone creations to explore within the base. Everything from automated doors to advance machines like an automated potion brewing system and a really easy-to-use wardrobe. And since it’s built in an ordinary world it’s perfect to use for your next survival adventure!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2016/11/darklegends-2-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2016/11/darklegends-2-1-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2016/11/darklegends-5.jpg"
+
+      
+   },
+   {  
+      "id":22,
+      "title":"15 Piston Creations",
+      "category":"Redstone",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/21/15 Piston Creations (Ideas)-1.0.0.zip",
+      "description":"This map features 15 different redstone creations which in some way relate to pistons. All of them are structures which in some way or another can be used to greatly improve your own builds in Minecraft. Most of them are also fairly easy to build so it shouldn’t be too difficult to rebuild them in your own worlds.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/15-piston-creations-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/15-piston-creations-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/15-piston-creations-4.jpg"
+
+   },
+   {  
+      "id":23,
+      "title":"Hot Feet",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/22/WJABABMMAQA=.zip",
+      "description":"Hot Feet is a minigame (very similar to Sand Scrambler) which requires at least two players but preferably more. It’s a very intense and exciting type of gameplay where you always gotta keep moving around. Each player is equipped with a flint & steel which can be used to set the ceiling on fire and make sand fall down and suffocate other players (or yourself if you aren’t careful).",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/hot-feet-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/hot-feet-1.jpg",
+			"preview3":""
+      
+   },
+   {  
+      "id":24,
+      "title":"AVA Music Festival",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/24/The Darkest Halls 2.zip",
+      "description":"The AVA Music Festival is a yearly EDM Festival where famous artists such as DJ Martin Garrix, Jay Hardway and many other DJs have played. This map is supposed to be a replica (or at least inspired by) the AVA Music Festival which took place in Myanmar last year (2016). This map features a big stage and a control panel which can be used to fully control the lights, LED screens and fireworks on stage.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/ava-festival-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/ava-festival-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/ava-festival-2.jpg"
+
+   },
+   {  
+      "id":25,
+      "title":"Skyblock Challenge",
+      "category":"Survival",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/25/Kidsource Easy Skyblock.zip",
+      "description":"This map is a skyblock survival challenge where the main objective is to reach the final island. You will start out on a small island with few resources. The resources have to be used carefully in order to one day have the necessary building blocks to create the bridges which will take you to your end goal. I provided some recommended guidelines but you can obviously use whatever rules you want.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/kidsource-survival-challenge-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/kidsource-survival-challenge-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/kidsource-survival-challenge-1.jpg"
+      
+   },
+   {  
+      "id":26,
+      "title":"Parkour IB 1",
+      "category":"Parkour",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/26/ParkourIB1.zip",
+      "description":"This map takes you on a challenging journey consisting of 5 different levels and in total it should take somewhere between 20 to 30 minutes to complete. The objective is quite simple. You have to use whatever parkour skills you’ve got to jump from one block to another to ultimately complete all of the levels. The fact that there are some tricky jumps and that the levels are really well built makes it both an enjoyable and eye-pleasing experience.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/parkour-ib-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/parkour-ib-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/parkour-ib-1.jpg"
+
+   },
+   {  
+      "id":27,
+      "title":"Egaland",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/27/Egaland.zip",
+      "description":"Egaland is a modern city and actually one of the oldest ones for Minecraft PE which is still being updated regularly. The city consists mostly of colorful skyscrapers and other large housing objects but there are also awesome creations such as a museum and an airport which you can explore. As a whole, it’s a very detailed and beautiful city with a lot to see!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2014/11/egaland-5-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2014/11/egaland-4-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2014/11/egaland-4.jpg"
+      
+   },
+   {  
+      "id":28,
+      "title":"Swampton and Skrimville",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/28/swampton&skrimville.zip",
+      "description":"Warning: The file size for this map is quite big: ~150 MB! This map features Swampton and Skrimville which are two separate towns featured in one map. It is without hesitation one of the best medieval maps currently available specifically for Minecraft Pocket Edition. Not only are they insanely huge but they are also incredibly detailed and I’ve literally spent over two hours exploring and yet I haven’t seen it all. shrimp1970 has spent years building these cities and the result is just astonishing!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/skrimville-swampton.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/skrimville-swampton-14.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/skrimville-swampton-13.jpg"
+
+      
+   },
+   {  
+      "id":29,
+      "title":"Mansion Village",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/29/mansion-village.zip",
+      "description":"This is a really cool world which could be suitable to use for your next survival world. It includes a couple of large mansions and a few cottages. All of them are situated close to each other so it’s fairly easy to find them. All of the houses are furnished and decorated. The only thing you need to do is to find a house of your liking and then move in! There is one downside though and that is the file size (219 MB).",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/mansion-village-13.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/mansion-village-12.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/mansion-village-11.jpg"
+
+      
+   },
+   {  
+      "id":30,
+      "title":"Black TNT Run: Maze",
+      "category":"Minigame",
+      "rating":4.2,
+      "link":"https://worldofskins.org/maps/30/black-tnt-run-maze.zip",
+      "description":"Black TNT Run: Maze is similar to other TNT run maps except that you will now also have to find your way out of maze while doing each run. This clearly adds an extra layer of difficulty and is great for anyone who consider themselves a pro and want something more challenging. The idea was to build a map with 7 levels but currently there are just 5.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/black-tnt-maze-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/black-tnt-maze-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/black-tnt-maze-2.jpg" 
+   },
+   {  
+      "id":31,
+      "title":"Modern Super Mansion",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/31/modern-house-mansion.zip",
+      "description":"This map features an amazingly modern mansion which lets you live the life of a millionaire in Minecraft. All of it is realistically designed and this means that it will include custom furniture which doesn’t have any actual functions except for just looking realistic. It’s a great map if you want to live in a modern house in a survival world or if you just need some inspiration for your own creations.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/modern-super-mansion-11.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/modern-super-mansion-10.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/modern-super-mansion-9.jpg"
+      
+   },
+   {  
+      "id":32,
+      "title":"Treehouse",
+      "category":"Creation",
+      "rating":4.1,
+      "link":"https://worldofskins.org/maps/32/Treehouse by DMZ.zip",
+      "description":"Always dreamed of living in a tree house? Well, here’s your chance! This map features a really nice tree house which is located deep in a forest. It is several stories high and includes many useful rooms and balconies used for everything from enchanting to storage and sleeping quarters. It’s a useful map if you are looking for some place to live but don’t want to build it yourself.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/treehouse-6.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/treehouse-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/treehouse-3.jpg"
+      
+   },
+   {  
+      "id":33,
+      "title":"Sumo!",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/33/Sumo!.zip",
+      "description":"This is a minigame map which is recommended for two players. The objective is to use a sword to knock off the other player from a platform. It’s inspired by sumo wrestling but this is obviously a simplified version of that. Don’t expect anything huge or amazing. It’s just a fun and clever little minigame!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/sumo-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/sumo-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/sumo-2.jpg"
+
+   },
+   {  
+      "id":34,
+      "title":"UKS City (Christmas Update)",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/34/uks.zip",
+      "description":"UKS is a city built in a flat world. It includes a great variety of modern houses and many different kinds of structures. In one end of the city there is even a farm with a barn and horses and so on. The entire city is populated by villagers and iron golems and that definitely makes the city seem populated and not as dead as other cities. Since there are so many different creations it’s a useful city to explore in case you need some building inspiration.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/uks-city-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/uks-city-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/uks-city-3.jpg"
+
+      
+   },
+   {  
+      "id":35,
+      "title":"DanTDM’s Lab (Ported)",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/35/DanTDMs Lab Map By TheLCFPro for MCPE.zip",
+      "description":"DanTDM (The Diamond Minecart) is one of the biggest Minecraft YouTubers out there. This map is a replica of the new lab which Dan uses in his Let’s Play videos in which he is usually accompanied by his loyal companion Dr. Trayaurus.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/01/dan-tdm-lab-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/01/dan-tdm-lab-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/01/dan-tdm-lab-2.jpg"
+      
+   },
+   {  
+      "id":36,
+      "title":"5 Secret Entrances",
+      "category":"Redstone",
+      "rating":4.2,
+      "link":"https://worldofskins.org/maps/36/5 Secret Entrances.zip",
+      "description":"This is a really useful map if you are looking for solutions for hiding certain parts of your base or creating some type of secret room. The map includes five different redstone creations. Examine the builds and try to replicate them in your own worlds. You might need to remove some of the blocks in the map in order to better understand the redstone structure though.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/01/5-secret-entrances-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/01/5-secret-entrances-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/01/5-secret-entrances-3.jpg"
+      
+   },
+   {  
+      "id":37,
+      "title":"Sand Scrambler",
+      "category":"Minigame",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/37/Sand Scrambler.zip",
+      "description":"Sand Scrambler is a minigame where each player is given a flint & steel and then have to enter a room made out of mostly wood. The players are allowed to set the ceiling on fire and after a while sand will fall down. The last player standing who hasn’t yet been suffocated by the sand is the winner. This is the first time we have posted such a map on the website and I gotta say it’s a pretty fun minigame!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/01/sandscrambler-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/01/sandscrambler-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/01/sandscrambler-1.jpg"
+      
+   },
+   {  
+      "id":38,
+      "title":"Circuit Scramble",
+      "category":"Puzzle",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/38/Circuit Scramble-3.zip",
+      "description":"Circuit Scramble is a map which is based on an Android app with the same title. There are 15 different which you need to solve to complete it. It’s a quite difficult map which is most suitable for people who enjoy solving mathematical puzzles or have basic familiarity with logic gates.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/circuit-scramble-2-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/circuit-scramble-3.jpg",
+			"preview3":""
+         
+      
+   },
+   {  
+      "id":39,
+      "title":"ElytraElite: Carnival",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/39/ElytraElite Carnival.zip",
+      "description":"This is an elytra map with creations inspired by the Brazilian Carnival. Do you feel like celebrating? Then join the festivities in Minecraft (preferably with other players) and play this map. There are four levels included in the map and each level consists of enough challenges to make them both exciting and enjoyable to play.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/elytra-carnival-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/elytra-carnival-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/elytra-carnival-2.jpg"
+         
+      
+   },
+   {  
+      "id":40,
+      "title":"The Alpine Mansion",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/40/The Alpine Mansion.zip",
+      "description":"his house was originally built by Dan Lags (who is a YouTuber) on the Xbox console edition of Minecraft but it has since been ported to Pocket Edition. It’s based on a real life home called The Stone Mansion. Two years ago it was on sale for a price tag of 49 million dollars making it the most expensive home in New Jersey, USA.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/dan-lags-mansion-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/dan-lags-mansion-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/dan-lags-mansion-2.jpg"
+         
+      
+   },
+   {  
+      "id":41,
+      "title":"Sky Survival Islands",
+      "category":"Survival",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/41/Sky Survival Islands.zip",
+      "description":"This map spawns you on a skyblock island with very little resources. It’s up to you to use whatever survival skills you’ve got to survive for as long as possible. If your intention is to survive (which it should be) then I highly recommend that find ways to explore the other islands as they will provide the necessary resources you’ll need for your survival.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/sky-survival-islands-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/sky-survival-islands-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/sky-survival-islands-4.jpg"
+         
+      
+   },
+   {  
+      "id":42,
+      "title":"My Brain Hurts",
+      "category":"Puzzle",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/42/My_Brain_Hurt.zip",
+      "description":"This map features 7 medium-easy puzzle levels. In each room you will be presented with a problem which needs to be solved in order to gain access to the next level. For example, sometimes you will need to craft blocks or items and other times you simply need to figure out a fairly basic puzzle problem. This map is most suitable for beginners who haven’t played many puzzle maps yet.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/my-brain-hurts-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/my-brain-hurts-2.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":43,
+      "title":"Minecraft Trivia",
+      "category":"Minigame",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/43/MinecraftTrivia.zip",
+      "description":"How much do you actually know about Minecraft? For example, do you know the original title of Minecraft or in which version redstone was added? Give it a try and let’s find out whether you are a true Minecraft geek or not. Most levels feature some kind of question but there’s also a redstone puzzle and a short parkour map.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/minecraft-trivia-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/minecraft-trivia-2.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":44,
+      "title":"The Temple of Notch",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/44/temple_of_notch.zip",
+      "description":"The Temple of Notch is an old map which was originally created for the PC version of Minecraft but has since then been ported to Pocket Edition. Step inside The Temple of Notch and be judged! Markus “Notch” Persson is the person who created Minecraft and then (together with other people at that time) sold it to Microsoft.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2014/09/temple-of-notch-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2014/09/temple-of-notch-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2014/09/temple-of-notch-1.jpg"
+
+      
+   },
+   {  
+      "id":45,
+      "title":"Japanese Garden Arena",
+      "category":"PvP",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/45/Japanese garden arena.zip",
+      "description":"The Japanese Garden Arena is an awesome place to compete with your friends in battles to find out who is the best fighter. It has been specifically designed for 1 vs. 1 battles but you can also play it with bigger teams. The design of the arena is based on Asian architecture and it’s actually Luma’s (the creator) first time using that style to build. As a whole, it’s a pretty cool map.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/japanese-arena-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/japanese-arena-7.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/japanese-arena-4.jpg"
+
+      
+   },
+   {  
+      "id":46,
+      "title":"GTA San Andreas",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/46/SA by @MrMvBPE.zip",
+      "description":"This map is a ported replica of the area around Idlewood in Los Santos, San Andreas. GTA San Andreas is an old and still quite popular game (and especially so the online version known as SA-MP). The map was created a few years back as a survival hunger games map for the PC version of Minecraft but has since been ported to Pocket Edition. ",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2015/03/gta-sa-2-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2015/03/gta-sa-2-6.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2015/03/gta-sa-2-3.jpg"
+
+      
+   },
+   {  
+      "id":47,
+      "title":"A Beginner’s Guide to Redstone",
+      "category":"Redstone",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/47/Beginners_Guide.zip",
+      "description":"This map is more than just a redstone showcase map. It was created for people who are completely new to redstone and want to learn more about it. Every creation you will come across is a fully functional contraption with detailed information explaining the functionalities. There are also a wide range of creations which allow you to start at a level which matches your current abilities.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/redstone-contraptions-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/redstone-contraptions-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/redstone-contraptions-2.jpg"
+
+      
+   },
+   {  
+      "id":48,
+      "title":"The Journey of Life",
+      "category":"Adventure",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/48/TheJourneyOfLife_World.zip",
+      "description":"This beautiful adventure starts you off at your treehouse and leads you through a series of quests which you need your completion. The ultimate goal is to obtain a potion of immortality and be paid enough money to be able to finally build a rooftop pool for your treehouse. It can be played by anywhere between 1 to 9 players and the map is solely an adventure and exploration map so don’t expect any battles or player vs. player instances.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/the-journey-of-life-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/the-journey-of-life-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/the-journey-of-life-1.jpg"
+
+      
+   },
+   {  
+      "id":49,
+      "title":"Minigames Central",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/49/Minigames Central.zip",
+      "description":"The Minigames Central map is a great map to play together with friends as it features 7 different minigames. There is a great variety of games which ensure that there’s something for everyone. You can expect at least one hour worth of gameplay in this map.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/minigames-central-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/minigames-central-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/minigames-central-2.jpg"
+      
+   },
+   {  
+      "id":50,
+      "title":"Epic Cliffs (Base)",
+      "category":"Creation",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/50/epic cliff.zip",
+      "description":"Epic Cliffs one of the best mountain bases you’ll find for Minecraft Pocket Edition. The structures have been built to somehow make use of the amazing mountains which can be found around the area. And there are plenty of tunnels which connect most places and this means you rarely ever have to leave the base to get somewhere else inside the base. You might want to upgrade the redstone security to make sure monsters are kept locked out.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/epic-cliffs-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/epic-cliffs-6.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/epic-cliffs-5.jpg"
+   },
+   {  
+      "id":51,
+      "title":"The Fire of Determination",
+      "category":"Adventure",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/51/VerseCrafter TFD v2.zip",
+      "description":"The Fire of Determination is the second of map in the VerseCrafter map series. All of your memories have been lost and you are forced to look deep inside your own head to unlock your hidden memories and take back your sanity. It’s a really cool decision based adventure map which combines everything from puzzles to parkour to create some exciting gameplay. It’s best suited for version 1.0.4.1 of Minecraft Pocket Edition since it uses custom sounds.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2016/10/versecrafter-2-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2016/10/versecrafter-2-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2016/10/versecrafter-2-1-1.jpg"
+      
+   },
+   {  
+      "id":52,
+      "title":"Welcome To The Tardis",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/52/Welcome To The Tradis Map.zip",
+      "description":"Do you consider yourself a true Whovian (also known as a Doctor Who fan)? If that’s the case then you definitely have to download this map and give it a try in-game. The map features a lot of different TARDIS control rooms which are all based on the ones from the Doctor Who TV show. It took roughly one week to complete and has since then been updated several times!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/the-tardis-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/the-tardis-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/the-tardis-3.jpg"
+   },
+   {  
+      "id":53,
+      "title":"Command Block Tutorial",
+      "category":"Redstone",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/53/Command Block Tutorial.zip",
+      "description":"1.0.5 Only! This map provides a quick and easy tutorial for the new Command Block which can be used for executing commands. It’s being introduced in version 1.0.5 for Minecraft Pocket Edition and right now Android users can sign up for a beta here. It has already existed for Minecraft for PC for a long while and has proved to be a very useful block for custom maps and multiplayer servers.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/custom-block-tutorial-map-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/custom-block-tutorial-map-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/custom-block-tutorial-map-1.jpg"
+   },
+   {  
+      "id":54,
+      "title":"Minecraft Trivia 2",
+      "category":"Minigame",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/54/Minecraft Trivia 2.zip",
+      "description":"Test your Minecraft knowledge by answering a great variety of questions. Giving the wrong answer will result in a horrible death so you better be careful when deciding on an answer. Most of the answers are random tidbits of knowledge which only a true Minecraft veteran would remember. If you enjoyed this map make sure to try out the previous one as well!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/minecraft-trivia-2-2.jpg",
+			"preview2":"",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":55,
+      "title":"Command Parkour",
+      "category":"Parkour",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/55/CommandParkour.zip",
+      "description":"(1.0.5 Only!) This is a short map which consists of five easy parkour levels. It’s mostly a showcase to demonstrate how command blocks can be used (in version 1.0.5) to create awesome parkour maps with no interruptions. Some features include automatic checkpoints and text announcements on the screen to display rules and similar information.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/commandparkour-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/commandparkour-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":56,
+      "title":"10 Command Block Creations",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/56/Command Block Creations.zip",
+      "description":"A command block can be used for executing text commands and in this map you can explore 10 such creations. Give it a try and examine some different ways which you can combine command blocks with other redstone related blocks and items to create clever mechanisms. Hopefully this showcase will give you some ideas on what you can build using this new block!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/10-command-block-creations-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/10-command-block-creations-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/10-command-block-creations-1.jpg"
+
+      
+   },
+   {  
+      "id":57,
+      "title":"Lucky Blocks (Demo)",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/57/lucky-blocks-map.zip",
+      "description":"In this map you’ll find a redstone creation which can be used for replacing the sponge with a lucky block and it even has its own unique behaviors. There are many mods and add-ons which have added lucky blocks to the game but this is the first map to do it without any mods. However, there are some downsides. For example, it will only work if it is placed on one specific location.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/lucky-block-map-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/lucky-block-map-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/lucky-block-map-3.jpg"
+
+      
+   },
+   {  
+      "id":58,
+      "title":"Simple Command Mansion",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/58/Command Mansion.zip",
+      "description":"This mansion is suitable for anyone who want to get some inspiration on what you can build with the command blocks. There are somewhere around five different creations which you can explore and each of them is equally awesome in their own way!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/simple-command-mansion-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/simple-command-mansion-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/simple-command-mansion-3.jpg"
+      
+   },
+   {  
+      "id":59,
+      "title":"15 Seconds PixelArt",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/59/15_Seconds_PixelArt.zip",
+      "description":"This is a memory minigame which is suitable for anyone who enjoys puzzles and building. It comes with three preset levels which can be customized to your liking simply by replacing some blocks. All of it is automated by redstone and command blocks and that’s why it’s limited to 1.0.5 alpha users only.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/15-seconds-pixelart-6.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/15-seconds-pixelart-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/15-seconds-pixelart-3.jpg"
+
+      
+   },
+   {  
+      "id":60,
+      "title":"Custom Portal - Command Blocks",
+      "category":"Redstone",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/60/Custom Portal.zip",
+      "description":"This is an extremely clever creation which I couldn’t resist to post even though it’s very simple and doesn’t provide much gameplay. It’s the perfect solution for anyone who want to implement a portal in their world which functions similarly to the Nether portal. It appears to be very easy to build as long you’ve got version 1.0.5 or higher.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/custom-portal-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/custom-portal-2-e1489586702189.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":61,
+      "title":"Frosty Spleef",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/61/FrostySpleef.zip",
+      "description":"Spleef is a multiplayer minigame where the objective is to destroy blocks below other players, causing them to fall off platforms and die. The concept is pretty fun and creates for some exciting gameplay. Frosty Spleef is suitable for 5+ players since it is a fairly large map which includes multiple layers of platforms. You can reset the map in-game with command blocks.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/frosty-spleef-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/frosty-spleef-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/frosty-spleef-4.jpg"
+
+      
+   },
+   {  
+      "id":62,
+      "title":"St. Patrick’s Day Trivia",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/62/St Patricks Quiz by MegaVSPrime.zip",
+      "description":"Saint Patrick’s Day is a cultural and religious day of celebration. The purpose of the feast is to celebrate the arrival of Christianity in Ireland and to show respect for Saint Patrick who is supposed to have died on this day (17th March). If you want to learn more about Irish culture in general (and also things related to Minecraft) then give this map try!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/st-patricks-day-trivia-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/st-patricks-day-trivia-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":63,
+      "title":"4 Pillar Survival PE",
+      "category":"Survival",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/63/4 Pillar Survival PE.zip",
+      "description":"4 Pillar Survival is challenging survival map where you will find yourself stranded on a skyblock island surrounded by four huge pillars. Each pillar symbolizes a biome (or in one case a dimension) and together they include most blocks which you would find in an ordinary survival world. You’ll also find a villager in each pillar which you can trade with to obtain better items and blocks.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/4-pillar-survival-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/4-pillar-survival-6.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/4-pillar-survival-3.jpg"
+
+      
+   },
+   {  
+      "id":64,
+      "title":"Castle Adventure",
+      "category":"Adventure",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/64/Puzzle Map.zip",
+      "description":"Recently an evil villager decided to overthrow your kingdom and proclaim himself as king. This obviously comes as bitter news and it’s up to you to take back what was once yours and reinstate yourself as king. It’s a fun map where you need to search for clues to find the tools you’ll need to save the kingdom.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/castle-adventure-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/castle-adventure-2.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":65,
+      "title":"Structure Animation",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/65/Stucture Animation.zip",
+      "description":"This creation can be used as a base to build your own animation or to play a preset animation. It uses lots of redstone and command blocks in order to enable this process to happen. It provides a great tutorial for anyone who would want to build and implement something similar in their own worlds.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/structure-animation-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/structure-animation-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/structure-animation-1.jpg"
+
+      
+   },
+   {  
+      "id":66,
+      "title":"Self-Building House",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/66/Self-Building House.zip",
+      "description":"This is a really cool redstone creation which uses command blocks to automate the building process of a house. The entire creation is animated. Basically this means that the house won’t be built instantly. It’ll take several seconds for the house to be completed. You can then use another button to make it disappear again.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/self-building-house-2-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/self-building-house-2-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/self-building-house-2-1.jpg"
+
+      
+   },
+   {  
+      "id":67,
+      "title":"The Dropper (Remastered)",
+      "category":"Minigame",
+      "rating":4.1,
+      "link":"https://worldofskins.org/maps/67/the-dropper-remastered.zip",
+      "description":"The Dropper is one of the most popular maps for Minecraft. There are 11 different levels and the only objective is to survive the fall. This is a remastered version which includes command blocks and as a result it’s only available for version 1.0.5 (or higher) for Minecraft Pocket Edition. As a whole, it’s a really well designed map definitely worth of playing!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2014/08/the-dropper-remastered-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2014/08/the-dropper-remastered-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2014/08/the-dropper-remastered-5.jpg"
+
+      
+   },
+   {  
+      "id":68,
+      "title":"De_Dust (CS:GO)",
+      "category":"PvP",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/68/de-dust-csgo.zip",
+      "description":"This is a replica of de_dust which is a map in Counter Strike: Global Offence (CS:GO). Since it’s a player versus player map it’s highly recommended to be played by at least two players but preferably more. Command blocks are used for teleportation inside the map and for things at the shop. It’s a really well designed map with lots of cool details.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/de-dust-competitive-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/de-dust-competitive-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/de-dust-competitive-4.jpg"
+
+      
+   },
+   {  
+      "id":69,
+      "title":"Thorpe Park",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/69/theme.zip",
+      "description":"Thorpe Park is a theme park in England which now has been recreated in Minecraft Pocket Edition. There are more than 40 different attractions (and that includes everything from roller coasters to water rides). However, it should be noticed that it’s not a 1:1 scale recreation and some attractions have been moved or changed to make everything fit nicely together.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/thorpe-park-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/thorpe-park-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/thorpe-park-1.jpg"
+
+      
+   },
+   {  
+      "id":70,
+      "title":"4 Command Block Creations",
+      "category":"Redstone",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/70/Command Block Creations.zip",
+      "description":"This map features four different command block creations which for the most part are quite simple to create but can be extremely beneficial for builders. It’s a great showcase map since it gives you a great overlook of the actual redstone and command blocks which are involved in making these processes happen.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/4-command-block-creations-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/4-command-block-creations-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/4-command-block-creations-1.jpg"
+
+      
+   },
+   {  
+      "id":71,
+      "title":"Note Block Game Sounds",
+      "category":"Redstone",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/71/Note_Block_Sounds.zip",
+      "description":"This map contains five different redstone creations which can be used to play sounds from famous video games. All of the sounds are very short but you can set them on loop to make them play an infinite amount of times. Have a look at the different creations and find out how to add them to your own worlds.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/note-block-game.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/note-block-game-2.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":72,
+      "title":"The Quests",
+      "category":"Puzzle",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/72/the_quest.zip",
+      "description":"The Quests is one of the first puzzle maps for Minecraft PE which uses command blocks. It really opens up an entire new realm of possibilities since map makers will no longer be limited by just some redstone dust. It’s a really cool map which includes everything from cake eating to going on a space mission to Mars.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/the-quests-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/the-quests-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/the-quests-4.jpg"
+
+      
+   },
+   {  
+      "id":73,
+      "title":"SkyWars",
+      "category":"PvP",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/73/SkyWars by AutoGrind.zip",
+      "description":"Skywars is a multiplayer map which combines skyblock with PvP. Players will spawn on different islands and have to use whatever resources they find to be the last player standing. The gameplay area is limited to eight small islands and one main island. On the main island you’ll be able to find much better items so you gotta be quick to get there first!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/skywars-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/skywars-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/skywars-1.jpg"
+
+      
+   },
+   {  
+      "id":74,
+      "title":"Animation Maker Machine",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/74/Animation Maker Machine.zip",
+      "description":"This is a really cool creation which can be used for building your own animations in Minecraft. At the same time it’s a lot of fun it is also a great learning tool for command blocks if you choose to examine the creation closer. If you don’t have the time to build your own animations then there are two awesome presets which you can play.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/animation-maker-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/animation-maker-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/animation-maker-1.jpg"
+
+      
+   },
+   {  
+      "id":75,
+      "title":"The Evil Z-cientist",
+      "category":"Adventure",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/75/zcientistCMDmap.zip",
+      "description":"The Evil Zombie Scientist is the cause of a horrible scientific experiment where he kidnaps villagers and then tries to transform them into zombie villagers. It’s clearly the work for a madman who needs to be removed from his position of power and preferably killed. Too many have already died and it is up to you to escape his wrath and hopefully deal with him in the process.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/the-evil-z-cientist-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/the-evil-z-cientist-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":76,
+      "title":"Epic Cliffs (Base)",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/76/epic-cliffs-2.zip",
+      "description":"Epic Cliffs one of the best mountain bases you’ll find for Minecraft Pocket Edition. The structures have been built to somehow make use of the amazing mountains which can be found around the area. And there are plenty of tunnels which connect most places and this means you rarely ever have to leave the base to get somewhere else inside the base. You might want to upgrade the redstone security to make sure monsters are kept locked out.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/epic-cliffs-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/epic-cliffs-6.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/epic-cliffs-1-1.jpg"
+
+      
+   },
+   {  
+      "id":77,
+      "title":"Bows and Arrows Challenge",
+      "category":"Minigame",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/77/BOWS AND ARROWS.zip",
+      "description":"This challenge includes 10 semi-hard levels which will test your skills with the bow. If you manage to complete it there will be a surprise for you at the end. Well, it’s not really a surprise seeing as I will now tell you about it. You’ll be able to win a Minecraft PC account. We (MCPEDL.com) are in no affiliation with the competition. Any questions or other thoughts about it should be directed to umerkk164.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/bows-and-arrows-2.jpg",
+			"preview2":"",
+            "preview3":""
+
+      
+   },
+   {  
+      "id":78,
+      "title":"Reverse Dropper PE",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/78/Reverse Dropper Pe by Evil Warriors.zip",
+      "description":"The Reverse Dropper is similar to an ordinary dropper map except that instead of going down you’ll be going up and this is done possible by a levitation effect. Right now there are just four levels but all of them are very fun to play and I truly recommend this map. Just remember to watch your head!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/reversal-dropper-pe-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/reversal-dropper-pe-1.jpg",
+            "preview3":""
+
+      
+   },
+   {  
+      "id":79,
+      "title":"SpawnEgg House 1.0.6+ Only",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/79/Structure SpawnEgg.zip",
+      "description":"This map contains a very special item which lets you spawn structures in Minecraft. It’s something I have never seen done before (with no mods) and I am not entirely sure how the creator made this possible. Hopefully we’ll get an explanation from him soon, but if not, please investigate and share your knowledge about it in the comments section. It will blow your mind! Edit: Ok, people looks to have found out how to do it in the comments.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/spawnegg-structure-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/spawnegg-structure-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/spawnegg-structure-1.jpg"
+
+      
+   },
+   {  
+      "id":80,
+      "title":"Adventure++",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/80/Adventure.zip",
+      "description":"This is a great minigames map which is best played together with at least one other player. There are more than 20 different minigames and they range from PvP battle arenas to waterslides and boat races. There are lots of different choices of what you can do and that is to make sure that the time you spend playing it will be filled with fun moments.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/adventureplusplus-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/adventureplusplus-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/adventureplusplus-2.jpg"
+
+      
+   },
+   {  
+      "id":81,
+      "title":"Ekza’s Terrain Overhaul",
+      "category":"Custom Terrain",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/81/World.zip",
+      "description":"This is a custom world terrain which took the creator (Ekza) over two months to build and in it are most of the Minecraft biomes. Everything in the map has been handcrafted and as a result most of the terrain looks very natural. There are a few downsides and those are that it’s built in a flat world and that the ocean floor is limited to 2 blocks high.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/ekza-terran-overhaul-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/ekza-terran-overhaul-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/ekza-terran-overhaul-6.jpg"
+
+      
+   },
+   {  
+      "id":82,
+      "title":"The Subterranean Facility",
+      "category":"Adventure",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/82/subterraneanbase.zip",
+      "description":"The Subterranean Facility is a large and complex structure which you will find yourself exploring in hope to find a way out and take back your freedom. It’s an epic adventure taking place in one of the most amazing structures specifically created to provide you a mind-boggling escape adventure in Minecraft.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/subterranean-base-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/subterranean-base-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/subterranean-base-5.jpg"
+      
+   },
+   {  
+      "id":83,
+      "title":"Command Block Train",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/83/train5.zip",
+      "description":"This is a really cool redstone creation which lets you drive an old school train and all of it is made possible by command blocks. It’s very easy to get started as a train driver in Minecraft since all you will need to do is to stand on a pressure plate to make it move forward. It’s fairly limited currently as it can only move in one direction and the rails lasts only for 100-200 blocks.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/command-block-train-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/command-block-train-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/command-block-train-2.jpg"
+
+      
+   },
+   {  
+      "id":84,
+      "title":"Find The Freaken Button",
+      "category":"Minigame",
+      "rating":3.5,
+      "link":"https://worldofskins.org/maps/84/find-the-freaken-button.zip",
+      "description":"This map features 9 different levels which are set in a varying set of environments. The objective is to find a button which you need to press in order to access the next level. It’s definitely a challenging map which requires a great attention to detail. A benefit (or a disadvantage if you want more of a challenge) is that there are no time limits.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/find-the-freaken-button-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/find-the-freaken-button-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/find-the-freaken-button-2.jpg"
+
+      
+   },
+   {  
+      "id":85,
+      "title":"Murder Mystery Village",
+      "category":"Minigame",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/85/Random Village murder.zip",
+      "description":"This is a fully automatic murder mystery set in a medieval town which requires at least 3 players (and maximum 6 players). All players will randomly be assigned a role with different objectives. One thing is for sure and that is that one of you will be the murderer and it’s the sheriff’s job to kill him before it’s too late.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/murder-mystery-village-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/murder-mystery-village-1.jpg",
+            "preview3":""
+
+      
+   },
+   {  
+      "id":86,
+      "title":"aVIRa 1.0.5+ Only!",
+      "category":"Adventure",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/86/aVIRa Map 1.0.zip",
+      "description":"aVIRa is one the most ambitious and detailed adventure maps currently available for Minecraft Pocket Edition. In the map, you play as a programmer who has been sent to a giant computer which for years has been abandoned. As you journey deeper into the mysterious systems of the computer things slowly start to unravel and you will soon find yourself up against an artificial superintelligence which might not have your best interests in mind.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/avira-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/avira-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/avira-3.jpg"
+
+      
+   },
+   {  
+      "id":87,
+      "title":"Castle Wars",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/87/Castle Wars by ShaolinMiner.zip",
+      "description":"Fight for king and country in a war against the other team which preferably should consist of both players and non-player characters. You can also spawn in your own guards who will help fighting the other team. Castle Wars is supposed to be an intense battle with lots of fighting and there’s just one way it’ll end. Either you will win or you will die trying.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/castle-wars-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/castle-wars-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/castle-wars-1.jpg"
+   },
+   {  
+      "id":88,
+      "title":"More TNT",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/88/More TNT Command by Jhomes.zip",
+      "description":"This is a really cool redstone creation which adds 9 spawn eggs which for the most part spawns some type of destruction. Double TNTs, Nuke and even Lightning Bolt are some of the dangers you will be able to spawn by using the spawn eggs. This map is primarily meant as inspiration for ideas which you can implement in your own maps you are building.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/more-tnt-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/more-tnt-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/more-tnt-1.jpg"
+   },
+   {  
+      "id":89,
+      "title":"10 Command Block Creations",
+      "category":"Redstone",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/89/CMDCreations2.zip",
+      "description":"This map is a great showcase for things you can create with the /execute command and command blocks. By playing this map you will be able to learn things such as how to turn the bow into a grappling hook or how you can use a spawn egg to generate a structure. All of these creations include great knowledge for anyone who want to improve on their building skills!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/10-command-blocks-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/10-command-blocks-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/10-command-blocks-2.jpg"
+      
+   },
+   {  
+      "id":90,
+      "title":"My Redstone Smart House",
+      "category":"Redstone",
+      "rating":4.2,
+      "link":"https://worldofskins.org/maps/90/My Smart Mansion By Chris.zip",
+      "description":"This map features a big mansion which is suitable for all kinds of adventures where you need somewhere safe to stay. There is one master bedroom (with 8 beds combined) and lots of different redstone mechanisms which will greatly improve your standards of living. Outside you will also find multiple different types of automatic farms. You could literally stay within the boundaries of your property and still survive for a long time.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/my-smart-redstone-house-6.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/my-smart-redstone-house-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/my-smart-redstone-house-5.jpg"
+   },
+   {  
+      "id":91,
+      "title":"The Experiment 1",
+      "category":"Adventure",
+      "rating":4.1,
+      "link":"https://worldofskins.org/maps/91/The Experiment 1.zip",
+      "description":"You’ve been kidnapped by an evil scientist and you are forced to through a series of tests to prove yourself worthy. It’s unclear why you were chosen in the first place, but one thing is for certain and that is that you have to escape your captivity. This is an adventure map which should take somewhere around 20 minutes to complete. It uses redstone and command blocks to provide a seamless gameplay experience.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/the-experiment-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/the-experiment-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/the-experiment-1.jpg"
+
+      
+   },
+   {  
+      "id":92,
+      "title":"Working iPhone 6",
+      "category":"Redstone",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/92/Iphone 6 Pastimeboy.zip",
+      "description":"This map features a huge iPhone 6 which is semi-functional. It’s obviously extremely limited compared to a smartphone in real life, but you can actually turn it on and switch between the few different apps available on the phone. It’s definitely a mind-blowing creation and it’s the first time I see one created specifically for Minecraft Pocket Edition.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/working-iphone-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/working-iphone-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/working-iphone-2.jpg"
+   },
+   {  
+      "id":93,
+      "title":"Evac (Call of Duty: Black Ops 3)",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/93/evac.zip",
+      "description":"This map is a replica of Evac which is a multiplayer map in Call of Duty: Black Ops 3. It features an evacuation center which is centered on top of a huge complex building. The entire structure is overgrown and looks very post-apocalyptic. This is a ported map (with no shadow bugs) and you can use it for anything from hide and seek to a PvP battle arena.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/evac-bo3-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/evac-bo3-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/evac-bo3-1.jpg"
+
+      
+   },
+   {  
+      "id":94,
+      "title":"Granyland",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/94/granyland.zip",
+      "description":"Granyland is a unique and really one-of-a-kind type of city which is scattered over a large chunk of land. It’s great for anyone who enjoy open-world exploring since there are a wide range of buildings which you will be able to come across. The architecture is something unique and much of it include cool and fairly complex redstone contraptions.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/granyland-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/granyland-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/granyland-3.jpg"
+      
+   },
+   {  
+      "id":95,
+      "title":"Ghost Jump",
+      "category":"Parkour",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/95/ghost-jump.zip",
+      "description":"Ghost Jump is one of the longest parkour maps you will ever play, and it’s not easy! But luckily, there is a checkpoint on each new level which ensures some safety even if you were to fall down and die. It’s really well designed and includes a great mix of style and challenges. It’s probably going to take somewhere around 30 minutes to complete it for most of you, but that is obviously dependent on your skill level.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/ghost-parkour-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/ghost-parkour-6.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/ghost-parkour-3.jpg"
+      
+   },
+   {  
+      "id":96,
+      "title":"Troll Command Creations",
+      "category":"Redstone",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/96/TrollCMDC1.zip",
+      "description":"Today it’s April Fools’ Day and it is that time during the year when it’s okay (and almost an obligation) to prank people. This map provides you with 10 different ideas for creations which you can build in your own worlds to prank your friends. There are a great mix of them too. Everything from jumpscares to fake creepers.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/troll-creations-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/troll-creations-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/04/troll-creations-1.jpg"
+
+      
+   },
+   {  
+      "id":97,
+      "title":"3D Animator Studio",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/97/3D Animator Studio.zip",
+      "description":"This is a creation which lets you view a preset 3D animation or create your own ones. It’s actually much more immersive than a 3D movie seeing as you will be able to view the animation from multiple different angles. It’s a fairly simple which doesn’t last more than 10 seconds or so but it’s still pretty cool.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/3d-animator-studio-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/3d-animator-studio-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/04/3d-animator-studio-3.jpg"
+      
+   },
+   {  
+      "id":98,
+      "title":"Futuretroplis",
+      "category":"Creation",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/98/futuretroplis 3.0.zip",
+      "description":"Futuretroplis is a small, futuristic city situated on the coastline of a plains biome. It’s a magnificent build with amazing views and most parts of the city are made out of huge skyscrapers which reach far beyond the clouds. There are definitely some improvements which could be made. For example, most of the structures are hollow with no interiors. But other than that it’s really something amazing worth exploring.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/futuristic-city-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/futuristic-city-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":99,
+      "title":"Simple Sea Settlements",
+      "category":"Survival",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/99/simple-sea-settlements.zip",
+      "description":"This map is good if you are looking to set off your next survival adventure with a little bit of a story. You’ll start out on a small island with a lighthouse and from there you’ll take a boat to another island. There are few different custom made structures and some chests which will provide you the base necessities for surviving. Don’t expect too much though, it’s a fairly simple map.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/simple-sea-settlements-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/simple-sea-settlements-2.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":100,
+      "title":"10 Awesome Command Block",
+      "category":"Redstone",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/100/Aweosme Command Block Creations.zip",
+      "description":"This map features 10 different command blocks creations. Some of the creations work just as decorations, e.g. the animated Steve face or the dance floor, but they are still good enough to make them interesting. Most of them are creations which I’ve previously not seen done for Minecraft Pocket Edition and that’s always a plus.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/10-awesome-cmd-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/10-awesome-cmd-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":101,
+      "title":"Custom Mob Creator",
+      "category":"Redstone",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/101/custom-mob-2.zip",
+      "description":"This is a command block creation which lets you customize the outfit for a zombie. You can make it wear any type of body armor and you can also give it any type of weapon or tool. This particular creation have many different uses. It’s a great way to manipulate the capabilities of certain mobs without actually modding the game.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/custom-mobs-2-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/custom-mobs-2-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/04/custom-mobs-2-3.jpg"
+
+      
+   },
+   {  
+      "id":102,
+      "title":"Ultimate Slayer",
+      "category":"PvP",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/102/Ultimate Slayer.zip",
+      "description":"Ultimate Slayer is a quite unrestricted arena with automated processes such as the ability to obtain kits by pressing buttons or stepping on pressure plates to get teleported to a new space. It’s quite barebones at this point but hopefully that will improve as the development of the map continues.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/ultimate-slayer-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/ultimate-slayer-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/04/ultimate-slayer-2.jpg"
+      
+   },
+   {  
+      "id":103,
+      "title":"Brain Games",
+      "category":"Puzzle",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/103/braingames.zip",
+      "description":"Brain Games is a map consisting of multiple different puzzles which need to be solved. In each level you will be presented with a problem and since there are no instructions it definitely makes the levels difficult to complete. The challenges are all different and they range from redstone problems to unusual problems involving chickens.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/brain-games-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/brain-games-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/04/brain-games-4.jpg"
+
+      
+   },
+   {  
+      "id":104,
+      "title":"The Octobox (1.1.0.1 Only!)",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/104/The Octobox.zip",
+      "description":"The Octobox is a shulker box selector system originally created by Ethos Lab for the PC version of Minecraft but it has now been recreated in Minecraft PE as well. The system includes a simple user interface which lets you use an arrow to select a shulker box and then have it automatically appear in front of your eyes.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/octobox-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/octobox-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":105,
+      "title":"LexerCity",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/105/LexerCity V2.0.zip",
+      "description":"This is a city which has been in constant development for somewhere around two years by now, but this is the first time it’s being released here. LexerCity is a modern city with many great architectural designs, including several skyscrapers, apartment complexes and more. There are lots of different things to see here and that makes it fun to explore. It should be noted, however, that it’s a fairly small city but it’s still pretty cool.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/lexer-city-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/lexer-city-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/05/lexer-city-3.jpg"
+
+      
+   },
+   {  
+      "id":106,
+      "title":"Electric Furnace",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/106/Electric.zip",
+      "description":"This is a quite clever redstone machine which lets you build an electric furnace. The electric furnace is much better than an ordinary furnace since it doesn’t require any fuel (e.g. coal) to run. However, the downside is that it is slower than an ordinary furnace and doesn’t have the same mobility since it requires the redstone structure to be somewhere close to function properly.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/electric-furnace-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/electric-furnace-5.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":107,
+      "title":"Broken Moon",
+      "category":"Creation",
+      "rating":3.5,
+      "link":"https://worldofskins.org/maps/107/Broken Moon.zip",
+      "description":"This is a really cool command block creation which happened by random. Dantheshepard13 was playing around with the command blocks and soon he managed to manipulate the way that moon phases are displayed on the night sky. In this map you can do the same. All you need to do is to press a button to see some strange things happening in the sky.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/broken-moon-6.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/broken-moon-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/05/broken-moon-5.jpg"
+
+      
+   },
+   {  
+      "id":108,
+      "title":"Super Mega Dropper",
+      "category":"Minigame",
+      "rating":3.5,
+      "link":"https://worldofskins.org/maps/108/SuperMegaDropperv1.zip",
+      "description":"Are you ready for pure insanity? Super Mega Dropper is the latest creation in an on-going series of mind-blowing dropper maps. Each level is much more than just a fun dropper challenge. It’s essentially a piece of artwork usually including mind-boggling patterns. And due to a recent increment of the build height all levels are two times longer than before!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/super-mega-dropper-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/super-mega-dropper-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/05/super-mega-dropper-2.jpg"
+
+      
+   },
+   {  
+      "id":109,
+      "title":"Shulker Wars",
+      "category":"PvP",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/109/SWW.zip",
+      "description":"ShulkerWars is a skywars PvP map build design is inspired by the End (which is another dimension in Minecraft) and on shulkers. There are four different teams and each one will start out on a separate sky island. You’ll then have to craft blocks and items to reach the other islands where better items can be found. The ultimate goal is to be the last team standing.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/shulkerwars-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/shulkerwars-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/05/shulkerwars-3.jpg"
+
+      
+   },
+   {  
+      "id":110,
+      "title":"10 Simple House Designs",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/110/10 Simple Small Houses By ItzBojan.zip",
+      "description":"This is a useful map if you are in need of some inspiration for building your next house. There are 10 different designs and each one uses materials which relate to a different biome. All of them are fairly easy to build (since they are small) and include most of the essential blocks you’ll need (e.g. crafting table, bed and so on). And they also look really nice!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/10-small-houses-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/10-small-houses-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/05/10-small-houses-4.jpg"
+
+      
+   },
+   {  
+      "id":111,
+      "title":"Gorilla Island",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/111/gorilla.zip",
+      "description":"Gorilla Island is like a small theme park which is located on the coast of one huge island. There are lots of different structures which you can explore here. For example, there’s a huge gorilla head with eyes of lava and a medium-sized castle situated in the water. Are you someone who can’t get enough of roller coasters? No problems, there are plenty of them here. Everything looks very Minecrafty and blocky but it’s nonetheless a fun map to explore.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/gorilla-island-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/gorilla-island-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/05/gorilla-island-1.jpg"
+
+      
+   },
+   {  
+      "id":112,
+      "title":"Megacity",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/112/Megacity.zip",
+      "description":"Megacity is a really cool city to explore. It’s especially beautiful during the night since most of the buildings include lots of lightings to make them more visible during the dark. There are lots of skyscrapers and other types of structures which can be found all over the city. But it’s far from completed as you will notice lots of empty land spaces around the place but hopefully those will be developed soon.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/megacity-2-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/megacity-2-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/megacity-2-1-1.jpg"
+
+      
+   },
+   {  
+      "id":113,
+      "title":"The Wall",
+      "category":"Parkour",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/113/TheWallbymkteg2.zip",
+      "description":"The Wall is a fairly challenging parkour map where the goal is to get to the top of the wall. But to get there you will need to jump past a series of obstacles. All of the obstacles require some type of jumping and on some stages failure is punishable by death. But luckily, there are multiple checkpoints along the way. It’s a quite fun challenge if you are into parkour maps.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/the-wall-parkour-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/the-wall-parkour-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":114,
+      "title":"Missing Color 2",
+      "category":"Parkour",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/114/MissinColor2.zip",
+      "description":"Missing Color is a map where you need to find your way around in a black and white environment. Since there are barely any colors it really makes it much more difficult to figure out where to get next in order to complete a level. However, all of the levels are possible and there’s no timer so you really have as much time you want to complete it.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/black-and-white-parkour-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/black-and-white-parkour-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":115,
+      "title":"Late At Night (Horror)",
+      "category":"Adventure",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/115/late-at-night.zip",
+      "description":"Late At Night is a quite scary adventure map which takes place in a dark house. The lights are out and it’s your job to find a way down to the basement and repair the generator which supplies the electricity. To make things a little bit easier you’ve got a night vision camera which you can use to see in the dark, but it has a limited supply of battery so you have to use it sparingly. There are multiple jumpscares in the map so be prepared to be surprised!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/05/late-at-night-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/05/late-at-night-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":116,
+      "title":"SkyFight (PvE)",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/116/SkyFight.zip",
+      "description":"SkyFight PvE is a really cool map in which you will be able to fight mobs in an arena battle. There is also a system set up for choosing classes and controlling the world settings. At this point it’s a quite basic map but hopefully more features (such as more levels and a more complex leveling system) could be added in a future update of the map.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/skyfight-3-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/skyfight-3-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/skyfight-3-1.jpg"
+
+      
+   },
+   {  
+      "id":117,
+      "title":"Parkour Paradise: Giant House",
+      "category":"Parkour",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/117/ParkourParadise.zip",
+      "description":"This is a parkour map which is perfect for anyone who want to practice their parkour skills. There are 10 different levels which all vary in difficulty as well as a donus level in the end with some increased difficulty. Every level is possible to complete even if it for some of you might not seem possible at first. The area where you’ll be doing the parkour looks to be in a giant house.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/07/parkour-paradise-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/07/parkour-paradise-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":118,
+      "title":"PRISON 3.0",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/118/PRISON.zip",
+      "description":"This is a prison map which can be used for roleplays, cops and robbers, prison escape or any other time when you need a prison. There are some cool features built-in such as the possibility to choose between two different teams, a customized trading system, custom items and some new villager skins. The prison includes several different areas such as jail cells, a cafeteria and a yard.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/07/prison-3-0-4-e1501327591562.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/07/prison-3-0-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/07/prison-3-0-3.jpg"
+
+      
+   },
+   {  
+      "id":119,
+      "title":"Cursed (Horror)",
+      "category":"Adventure",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/119/Cursed (Horror) Update 1.1.zip",
+      "description":"Cursed (previously Mary) is the sequel to See You which was a map created and released not long after command blocks were officially added to Minecraft. In this sequel you’ll find yourself in your own house investigating different mysteries. It’ll start out quite ordinary but by the end of it you’ll likely be a bit more frightened than when you started out. Keep in mind that it does include multiple jump scares.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/07/mary-short-horror-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/07/mary-short-horror-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":120,
+      "title":"The Cursed Neighbor",
+      "category":"Adventure",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/120/The Curse Horror.zip",
+      "description":"This is probably one of the most disturbing horror maps you’ll play. It includes horrific scares and other potentially disturbing elements so it’s not really recommended for anyone who easily get scared or want to avoid getting nightmares. You’ve been warned! You’ll start out on the parking lot at your apartment complex and from there it only gets worse.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/the-cursed-neighbor-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/the-cursed-neighbor-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":121,
+      "title":"UKS City",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/121/UKS.zip",
+      "description":"UKS is a city built in a flat world. It includes a great variety of modern houses and many different kinds of structures. In one end of the city there is even a farm with a barn and horses and so on. The entire city is populated by villagers and iron golems and that definitely makes the city seem populated and not as dead as other cities. Since there are so many different creations it’s a useful city to explore in case you need some building inspiration.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/uks-city-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/uks-city-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/uks-city-5.jpg"
+
+      
+   },
+   {  
+      "id":122,
+      "title":"Pixel Playground",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/122/Pixel Playground 0.0.4.zip",
+      "description":"Pixel Playground is a large community driven pixel art map project which lets anyone from the Minecraft community submit his or her own art and have it added to the map. Currently there are 200 regular pixel art builds and 8 mega pixel art build. In each new update of the map Fizzman797 (the creator of the map) will add 20 new pixel arts and 1 mega pixel art, as well as the pixel art submitted by the community.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/07/pixel-playground-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/07/pixel-playground-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/07/pixel-playground-2.jpg"
+
+      
+   },
+   {  
+      "id":123,
+      "title":"BluJay’s Creative Testing World",
+      "category":"Creation",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/123/BluJayTestingWorld.zip",
+      "description":"BluJay released his first Let’s Play World just a few months ago and since then he has gained thousands of subscribers. Today he’s releasing a second world in celebration of reaching 5000 subscribers. The world works as a testing ground for new redstone contraptions and other structures which he intends to build in his own survival world or in the Unity SMP world.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/blujay-creative-world-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/blujay-creative-world-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/08/blujay-creative-world-3.jpg"
+      
+   },
+   {  
+      "id":124,
+      "title":"Sky Levitation",
+      "category":"PvP",
+      "rating":3.5,
+      "link":"https://worldofskins.org/maps/124/sky-levitation.zip",
+      "description":"Sky Levitation is a multiplayer map which combines skyblock PvP with levitation. There are a bunch of different islands and on each one you will find a chest with some gear, weapons and food. But that’s not all. You will also find a pressure plate which will give you a temporary levitation effect. Use this effect to access the other islands, loot items and ultimately slay your enemies.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/sky-levitation-pvp-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/sky-levitation-pvp-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":125,
+      "title":"BlockGears",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/125/BlockGears.zip",
+      "description":"BlockGears is the perfect map for anyone who enjoy racing. You’ll be able to select among three different racing tracks and in each one you’ll be driving a different vehicle. The vehicles include a Ferrari 458, a dirt bike and a Formula One car. It is a really awesome map which includes a great variety of experiences and it’s probably best played with friends!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/block-gears-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/block-gears-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/08/block-gears-4.jpg"
+
+      
+   },
+   {  
+      "id":126,
+      "title":"SpongeBob The Movie",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/126/SPONGEBOBbyTRUETRIZ.zip",
+      "description":"This map was created a little over two years ago for the Xbox Edition for Minecraft. It’s a hide-and-seek map taking place inside the SpongeBob movie. You’ll start out at a movie theater and from there you can enter a boxed-in world which features some of the SpongeBob characters. This type of minigame is best suitable for multiplayer gameplay.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/spongebob-hide-n-seek-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/spongebob-hide-n-seek-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/08/spongebob-hide-n-seek-4.jpg"
+
+      
+   },
+   {  
+      "id":127,
+      "title":"The Floor Is Lava",
+      "category":"Parkour",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/127/the-floor-is-lava.zip",
+      "description":"The Floor Is Lava is a parkour and minigame where you are allowed 10 seconds to examine a room before the floor turns into lava and you have to escape. The parkour is fairly easy to complete but it’s nonetheless a fun minigame which perhaps could be expanded on in the future with harder and more difficult levels. If you like parkour then give it a try!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/07/the-floor-is-lava-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/07/the-floor-is-lava-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/07/the-floor-is-lava-3.jpg"
+
+      
+   },
+   {  
+      "id":128,
+      "title":"VerseCrafter: Eternal Envy",
+      "category":"Adventure",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/128/VerseCrafter Chapter 3 by Cheete.zip",
+      "description":"VerseCrafter: Eternal Envy is the third map in a series of adventure and puzzle maps where you as a player will go on a journey through your own memories and try to unlock the forgotten. By completing the previous two maps you’ve successfully passed two memory gates but you’re not done yet. The next challenge requires you to conquer the emotion of “Greed”. As a whole, it’s a fun and experimental adventure with an intriguing storyline.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/versecrafter-eternal-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/versecrafter-eternal-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/08/versecrafter-eternal-3.jpg"
+
+      
+   },
+   {  
+      "id":129,
+      "title":"16 Useful Farms",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/129/Useful Farms.zip",
+      "description":"Some of the creation involve holding down a button on your mouse and can only be used with the Windows 10 edition. Also note that although it says 15 farms, there are actually 16. (The creator accidentally put 6 twice.) A teleporter was also included to divide the crop & animal farms from the mob grinders.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/16-useful-farms-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/16-useful-farms-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/08/16-useful-farms-1.jpg"
+
+      
+   },
+   {  
+      "id":130,
+      "title":"Super Lava Run",
+      "category":"Parkour",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/130/SUPER-Lava-Run-PE.zip",
+      "description":"Super Lava Run is a really fun parkour minigame where your main priority is to avoid the lava by completing different parkour jumps. At this point you will only have access to one stage called the Overworld but later on more stages will be introduced to expand on the length of the gameplay. The map is well built and have several clever uses for command blocks.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/super-lava-runner-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/super-lava-runner-2.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":131,
+      "title":"Futuretroplis",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/131/Futuretroplis4.zip",
+      "description":"Futuretroplis is a small, futuristic city situated on the coastline of a plains biome. It’s a magnificent build with amazing views and most parts of the city are made out of huge skyscrapers which reach far beyond the clouds. All of the buildings include floors and some of them even have interiors. It’s really a city well worth exploring!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/04/futuristic-city-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/04/futureoplis-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/04/futureoplis-1.jpg"
+
+      
+   },
+   {  
+      "id":132,
+      "title":"Kidsource PVP Arena",
+      "category":"PvP",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/132/Kidsource PVP Arena.zip",
+      "description":"This is a medium sized PvP area with lots of weapons, levels, ladders and staircases – the fun never ends! Enjoy a rousing battle with your friends, or maybe an intense game of hide and seek. It’ a great map to use for a local game party or your Realms server, and Kidsource gives you full rights to use it as you like as long you leave their credits sign in-game.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/pvp-area-kidsource-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/pvp-area-kidsource-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/pvp-area-kidsource-2.jpg"
+
+      
+   },
+   {  
+      "id":133,
+      "title":"Natural Disasters Survival",
+      "category":"Minigame",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/133/Disasters.zip",
+      "description":"This map is based on a minigame in ROBLOX called “Survive the Disaster”. All players spawn in an area where soon some sort of natural disaster occurs. The objective for each player is to survive for as long as possible and hopefully be the last remaining survivor. Even though it might be tempting to take out the competition you’re actually not allowed to kill them. Instead you must help them!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/06/natural-disasters-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/06/natural-disaster-survival-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/06/natural-disasters-3.jpg"
+
+      
+   },
+   {  
+      "id":134,
+      "title":"SG Questful",
+      "category":"Adventure",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/134/Questful.zip",
+      "description":"SG Questful is a fun adventure for anyone who enjoy questing. You’ll start out in one part of these vast lands and from there you will go on a great journey to complete a series of quests. Most quests relate to obtaining specific items and then bring them to other characters in the adventure. Even though the full version is exclusively distributed to the Chinese Minecraft platform, there is still a great deal of content to be experienced in this demo.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/quest-sg-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/quest-sg-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/quest-sg-4.jpg"
+
+      
+   },
+   {  
+      "id":135,
+      "title":"SG Flying Zombies",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/135/Flying Zombies.zip",
+      "description":"This is a really fun and unique minigame where you’ll be challenged to complete different parkour courses while you’re being chased by a giant flying zombie. The zombie will destroy everything in its path so this means that you quickly have to complete the parkour challenge before it catches up and destroys your path. Make sure to keep on running (and jumping)!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/skygames-flying-zombie-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/skygames-flying-zombie-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":136,
+      "title":"Circuit Friends",
+      "category":"Puzzle",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/136/CircuitFriendsv2.zip",
+      "description":"Circuit Friends is the sequel to Circuit Scramble. This map requires two players who must work together to find the solution to challenging logic puzzles. Teamwork is essential since players will be separated by a glass wall and each have to work on an individual problem. However, to unlock the next level both puzzles have to be solved properly. There are 16 different levels and they include a few hidden surprises here and there.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/06/circuit-friends-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/06/circuit-friends-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":137,
+      "title":"The Haunted Tunnel",
+      "category":"Adventure",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/137/HauntedTunnel.zip",
+      "description":"The Haunted Tunnel is a horror map where you’ve been trapped in a mineshaft and have to find your way out. It’s a really well made map which includes horror, adventure and puzzle – all in one map. There are jumpscares, custom effects and a lot of clever things all throughout the experience. You’ll most likely not want to go mining for a while after playing it!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/07/the-haunted-tunnel-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/07/the-haunted-tunnel-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":138,
+      "title":"Slime Bloxs",
+      "category":"Parkour",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/138/SLIMBOX.zip",
+      "description":"Slime Blocks is a parkour map with 10 different levels and all of them include some type of slime block challenge. Make your jumps carefully to make sure you don’t lose out on any of the jumping velocity which basically is essential to make it all the way to the next level. It’s definitely a tricky map but thankfully you can just climb up a ladder to retry a level in case you failed.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2016/05/slime-blocks-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2016/05/slime-blocks-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":139,
+      "title":"Mega Skyblock",
+      "category":"Survival",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/139/Mega Skyblock v6.1 Full offical Release.zip",
+      "description":"Mega Skyblock is a little bit different from the ordinary skyblock survival challenge as it includes 23 different islands (instead of just one) which the player is required to go out and explore in order to complete the map. Each island is supposed to symbolize a biome or a dimension and will provide you with new materials you can use to survive.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/03/mega-skyblock-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/03/mega-skyblock-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/03/mega-skyblock-1.jpg"
+
+      
+   },
+   {  
+      "id":140,
+      "title":"Korea Anju City 5.6",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/140/Anju City 5.6.zip",
+      "description":"This map features a small city built in a flat world. There are many different skyscrapers and a multitude of structures such as a police station, McDonalds, a city hall and other things you would expect in a city. Some parts of the city are still a work in progress so don’t travel too far outside the city.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/anju-city-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/anju-city-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/anju-city-1.jpg"
+
+      
+   },
+   {  
+      "id":141,
+      "title":"Planetary Confinement PE",
+      "category":"Survival",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/141/Planetary Confinement PE.zip",
+      "description":"This is an adventure with survival elements which takes place on an unknown sand planet. You have crash landed your spaceship and now you desperately need to scavenge for items to hopefully survive this disaster. Set off on your own or with friends to explore the mysterious structures of the planet and enjoy a unique experience with cool features and custom textures. It’s perfect for anyone who is up for a new survival challenge.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/planetary-confinement-pe-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/planetary-confinement-pe-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/planetary-confinement-pe-3.jpg"
+      
+   },
+   {  
+      "id":142,
+      "title":"Fantasy Islands",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/142/SHAAAKJ9HwA=.zip",
+      "description":"Fantasy Islands is a medium sized theme park with several fun areas worth exploring. Each area is themed around a different topic and they include Roald Dahl, The Lord of the Rings and lastly Pirates and Horror. It’s really a great mix of everything compressed in one theme park. Some other cool things checking out are the daily fireworks shows, a hotel with themed rooms and five restaurants.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/fantasy-islands-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/fantasy-islands-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/fantasy-islands-5.jpg"
+
+      
+   },
+   {  
+      "id":143,
+      "title":"Patriotville & Freedom County",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/143/The Survival Games.zip",
+      "description":"by MrMvBPE. This is a ported version of Patriotville which was originally created for Minecraft: Java Edition. Patriotville is a huge world with many different cities and interesting landscapes. The main city is called Patriotville and the surrounding countryside is called Freedom County. You can literally spend hours walking around exploring it and even then you’ll have lots more to explore. The attention to detail is overwhelming and it’s just pure joy to play it!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/patriotville-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/patriotville-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/patriotville-3.jpg"
+
+      
+   },
+   {  
+      "id":144,
+      "title":"Five Nights at Freddy’s",
+      "category":"Adventure",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/144/FNaF_SL_Night1_DarkPower202.zip",
+      "description":"This map will let you play through the first night in a Minecraft version of Five Nights at Freddy’s: Sister Location. It’s considered a survival horror game but this Minecraft version is probably way less scary. However, it does have many cool features such as a fully narrated story, custom sounds and other cool game mechanics. It’s a fairly short adventure but hopefully more nights will be added in the future.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/sister-location-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/sister-location-3.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":145,
+      "title":"Best Hogwarts",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/145/HogartsBySimonKirchner.zip",
+      "description":"Hogwarts School of Witchcraft and Wizardry is a fictional school in the popular Harry Potter book series. This map is considered one of the best Hogwarts replicas available for Minecraft and it includes everything from the Great Hall to the Quidditch pitch. If you’ve ever read the book series or watched the movies then this is most certainly something worth checking out!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/hogwarts-best-7.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/hogwarts-best-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/hogwarts-best-5.jpg"
+
+      
+   },
+   {  
+      "id":146,
+      "title":"Gingerbread House",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/146/Gingerbread house.zip",
+      "description":"This map features a nice little gingerbread house in a beautiful winter landscape. If you’re looking for a new and more Christmassy home then this house is a great option. It’s not big, but it does have enough space to include a dining room, kitchen and a few other areas. Take some time during the holidays and enjoy your time in this nice little cottage.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/gingerbread-house-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/gingerbread-house-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/12/gingerbread-house-1.jpg"
+
+      
+   },
+   {  
+      "id":147,
+      "title":"Rudolph’s Adventure",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/147/FindTheButton (1).zip",
+      "description":"Join Rudolph on this adventure to find the buttons to get a grand gift for Christmas. This map requires a great attention to detail as you will have to carefully examine the levels to find a hidden button. Once you’ve found it you can press it to unlock the next level. There are multiple different rooms and each with their own challenges. The entire map has been built in theme of Christmas.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/christmas-ftb-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/christmas-ftb-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/12/christmas-ftb-3.jpg"
+
+      
+   },
+   {  
+      "id":148,
+      "title":"10 Games at Xmas",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/148/10 Games at Xmas.zip",
+      "description":"Here’s a great map to get you in Christmas spirit. It features 10 different minigames and all of them are located in a snowy winter village. The games range everywhere from Find The Button to miniature golf. It’s designed for single player but it could probably be played in multiplayer as well if you take turns completing each minigame.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/10-xmas-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/10-xmas-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/12/10-xmas-4.jpg"
+
+      
+   },
+   {  
+      "id":149,
+      "title":"Planetary Survival",
+      "category":"Survival",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/149/planetary.zip",
+      "description":"This is a survival map with similarities to SkyBlock. It features many different planets and some of them, such as Earth, are inspired by ones found in our own solar system. There are also other astronomical bodies like asteroids and moons. Your most foremost objective is to survive but then also find a way to explore other planets to scavenge for food and other items necessary for your survival.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/planetary-survival-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/planetary-survival-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/12/planetary-survival-2.jpg"
+
+      
+   },
+   {  
+      "id":150,
+      "title":"DeathRun: The Winter Update",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/150/DeathRun Winter Upd.zip",
+      "description":"DeathRun is a game where your fate on winning depends on how good you are at avoiding obstacles and traps. This is a multiplayer minigame where some of you will be runners and others will be the killers. It’s an extremely intense game and especially for the runners who are constantly threatened by different traps.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/06/deathrun-2-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/06/deathrun-reborn-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/06/deathrun-reborn-1.jpg"
+
+      
+   },
+   {  
+      "id":151,
+      "title":"Undertale: Free Roam",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/151/UnderTale MCPE.zip",
+      "description":"This creation includes many of the areas in the popular role-playing video game called Undertale. It was originally created for Minecraft: Java Edition but has now been ported to the Bedrock Engine. It’s basically a big world which you can enter and walk around in to explore several different areas of Undertale in Minecraft as well as interacting with a few puzzles. It’s probably the most enjoyable for people who have actually played the game.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/undertale-map-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/undertale-map-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/undertale-map-2.jpg"
+
+      
+   },
+   {  
+      "id":152,
+      "title":"Brookfield (Mini City)",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/152/Brookfield Mini City.zip",
+      "description":"Brookfield is a miniature city which started its construction in mid-2016. It’s the biggest miniature city currently available (for Bedrock Edition). It includes tens of skyscrapers and loads of different areas worth exploring. The city is very well planned with a great variety of different districts. Have fun exploring!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/brookfield-mini-city-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/brookfield-mini-city-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/12/brookfield-mini-city-4.jpg"
+
+      
+   },
+   {  
+      "id":153,
+      "title":"Find the Button (Christmas Edition)",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/153/Find the Button_ CHRISTMAS.zip",
+      "description":"This is a find the button minigame with a twist. It was created so that there are 12 levels and as a player you are supposed to complete one level per day. If you do that, then you will have finished it by Christmas. However, if you prefer, you can of course just play it all the way through. Aside from the minigame, players can also explore Santa’s village.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/ftb-christmas-edition-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/ftb-christmas-edition-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/12/ftb-christmas-edition-1.jpg"
+
+      
+   },
+   {  
+      "id":154,
+      "title":"The Cube Escape",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/154/THE_CUBE_ESCAPE_V1.3.3.zip",
+      "description":"Test your skills in Minecraft by going through a series of 9 different challenges inside the space of a cube. You’ve been trapped inside the cube and your goal is to make your way through all of the challenges to ultimately find a treasure and hopefully a way out. Parkour, mazes, reversed droppers and puzzles are just some of the challenges you will meet.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/08/cube-escape-3-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/08/cube-escape-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/08/cube-escape-2.jpg"
+      
+   },
+   {  
+      "id":155,
+      "title":"New Year Special",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/155/New year Special.zip",
+      "description":"It’s not 2018 yet, but it’s never too early to celebrate! This map includes a fully functional fireworks show with synchronized fireworks, lights and other cool effects. As it’s built in a flat world there aren’t much to do other than possibly configuring the show or add your own features. Hopefully we’ll see some more cool creations like it in time for the new year!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/happy-new-year-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/happy-new-year-2.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":156,
+      "title":"Hospital 2 (Horror)",
+      "category":"Adventure",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/156/Hospital 2 By Piekabee.zip",
+      "description":"Waking up you find yourself inside an abandoned hospital. Let’s just say that everything that can go wrong does exactly that. As there’s no electricity all of the lights are out. However, you’ve got a night vision camera! As much as it’s useful it also adds an whole other level of creepiness to the experience. Search for a way out and find out if you’re really alone..",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/hospital-2-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/hospital-2-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":157,
+      "title":"Achievement World (Challenge)",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/157/Achievement World 1.2.zip",
+      "description":"This map was created to allow you to get all of the achievements in Minecraft PE except for just one which is the Adventuring Time Achievement. The reason for that is because it’s set in a flat world. But other than that you will be able to get 71 out of 72 achievements!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/achievement-world.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/pe-achievements-world-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/pe-achievements-world-2.jpg"
+
+      
+   },
+   {  
+      "id":158,
+      "title":"Doctor Who Tardis",
+      "category":"Creation",
+      "rating":3.5,
+      "link":"https://worldofskins.org/maps/158/Doctor Who Tardis Map.zip",
+      "description":"This is to date one of the most advanced TARDIS creations for Minecraft: Bedrock Edition. The TARDIS is fully functional and can be used for traveling to several different planets which exist in the Doctor Who universe. The planets include locations like Skaro, Gallifrey and others. But that’s not all, it also adds 10 new mobs to the game such as the Dalek and the Time Lords!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/12/doctor-who-6.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/12/doctor-who-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/12/doctor-who-5.jpg"
+
+      
+   },
+   {  
+      "id":164,
+      "title":"SkyGrid Survival - BE",
+      "category":"Survival",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/164/SkyGrid Survival.zip",
+      "description":"The renowned Minecraft world that we usually play is transformed into a grid of a diverse range of blocks suspended over the void. This creates a challenging and fun playthrough to Minecraft. Parkour mastery is vital to avoid any unnecessary deaths in the map, not to mention the presence of hostile mobs. The goal is the same as the vanilla Minecraft – go to the end and defeat the dragon.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/advanced-skygrid-e1534576329429.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/advanced-skygrid-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/advanced-skygrid-3.jpg"
+
+      
+   },
+   {  
+      "id":165,
+      "title":"MineChess",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/165/chess.zip",
+      "description":"This is a map which lets you play chess with a friend. It’s literally a chessboard where you ride mobs like horses to move your pieces (mobs). You use an armor stand to capture a piece. And resetting the board is just one button away. This is loads of fun for you and a friend!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/chess-map-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/chess-map-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/chess-map-4.jpg"
+
+      
+   },
+   {  
+      "id":166,
+      "title":"Savest House",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/166/Save House 2.0.zip",
+      "description":"This house looks at first like any other normal starter house for survival mode, but that’s far from the reality! Once you enter the house there’s a chest which can be used for accessing a secret control panel. The control panel can be used for changing the security level for the house. Some things you can enable include obsidian walls, lava trenches, wither turrets and even exploding walls!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/savest-house-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/savest-house-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/savest-house-4.jpg"
+
+      
+   },
+   {  
+      "id":167,
+      "title":"New England Patriots Stadium",
+      "category":"Creation",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/167/Patriots Stadium.zip",
+      "description":"This is Diecies first major build in the Pocket / Bedrock Edition Community over a year ago. The build started on December, 2016 and it was finished in the beginning of January, 2018. Most of the stadium was built solely by Diecies but the rest of the helpers are mentioned in the map. It is close to a replicate of Gillette Stadium in real life but it also has its own quirks and uniqueness to it. It was updated thanks for the #DSquad Team (Jujustep, MrMinechest & NoahCraftReal).",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/new-england-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/new-england-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/new-england-4.jpg"
+
+      
+   },
+   {  
+      "id":168,
+      "title":"Parkour Lesson",
+      "category":"Parkour",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/168/PARKOUR LESSON.zip",
+      "description":"Welcome to Parkour Lesson! This map will teach you how to do parkour in Minecraft. The teacher is called ItsDominicPlays and he is a YouTuber with 200+ subscribers. He made this parkour map so that he nearly wasn’t able to finish it himself. According to him, this is one of the most difficult parkour maps. There are more than 100 blocks and each jump can sometimes get as far as 3-4 blocks.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/parkour-lesson-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/parkour-lesson-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/parkour-lesson-3.jpg"
+
+      
+   },
+   {  
+      "id":169,
+      "title":"Goldfen Legend",
+      "category":"Adventure",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/169/Goldfen Legend Update3.zip",
+      "description":"Goldfen Legend is an RPG styled adventure map which can be played by anywhere between 1-4 players. In this first chapter you have been asked to help repair a broken ship. The elder of a village has told you that you need to find the old capital and ask for Lord Darin. In this adventure map you can expect plenty of quests including everything from puzzles to parkour and boss fights. Earn money by farming, mining or fighting mobs.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/07/goldfen-legend-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/07/goldfen-legend-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/07/goldfen-legend-1.jpg"
+
+      
+   },
+   {  
+      "id":170,
+      "title":"Animals Parkour",
+      "category":"Parkour",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/170/AnimalsParkourv.zip",
+      "description":"This map includes 10 different levels and each one is based on a friendly mob in Minecraft. To finish this map you need to complete all the different levels and this is done by doing parkour to end of each level. Some functionality in some levels are based on a mob. For example, the Dolphin level will give you a speed boost, and the Turtle level will give you slowness.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/animals-parkour-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/animals-parkour-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/animals-parkour-2.jpg"
+
+      
+   },
+   {  
+      "id":171,
+      "title":"SG Boat Battlers",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/171/Boat Battler.zip",
+      "description":"Boat Battlers is the classic Boat Exploding Game! Battle with your friends by exploding and knocking them into the poisonous water! Fight with the ordinary bomb, fire bomb, speed bomb, and the nuke bomb! They all work in different ways and can destroy the enemies boat!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/sg-boat-battlers-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/sg-boat-battlers-e1535137224550.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/sg-boat-battlers-3-e1535137207686.jpg"
+
+      
+   },
+   {  
+      "id":172,
+      "title":"Command Quest",
+      "category":"Redstone",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/172/Command Quest.zip",
+      "description":"Command Quest is a map consisting of 10 Commands Related Puzzles. In this map, you have to solve each puzzles by entering or using in-game Minecraft’s default commands to progress. Each levels varies its own rules so you don’t have to worry about breaking the map.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/commando-quest-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/commando-quest-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/commando-quest-2.jpg"
+
+      
+   },
+   {  
+      "id":173,
+      "title":"LuckyTree SkyBlock",
+      "category":"Survival",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/173/LuckyTree SkyBlock.zip",
+      "description":"This is similar in many ways to any other SkyBlock survival map except that there are some unpredictable events that can make the game either easy or extremely difficult. All of this depends on your own luck! There are four different islands (floating in a void of nothingness) and they include the normal Main Island, a Desert Island, a Stronghold Island and a Lucky Island.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/lucky-tree-skyblock-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/submission-files/40789_2018-08-20/5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/lucky-tree-skyblock-4.jpg"
+
+      
+   },
+   {  
+      "id":174,
+      "title":"SG Magic Maze",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/174/Magic Maze.zip",
+      "description":"Magic Maze is the confusing maze game! The maze is constantly changing and messing with your brain! The aim is to beat your opponents to the escape Using your map Since the maze is changing it helps to be in certain parts at certain times to get to the exit! This map is recommended for older players as younger players might find it frustrating more than fun!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/magic-maze-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/magic-maze.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":175,
+      "title":"Transcendance",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/175/Transcendance 1.1.zip",
+      "description":"Transcendance is a strategy multiplayer map inspired of Werewolf and games inspired of this last one. The map is only working for 8 players for now but have a spectator system for other players. We will add support for more and less players when scoreboards will have been added on an official version (not in beta version).",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/transcendance-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/transcendance-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/transcendance-2.jpg"
+
+      
+   },
+   {  
+      "id":176,
+      "title":"MagicCraft Skyblock 1",
+      "category":"Minigame",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/176/MagicCraft.zip",
+      "description":"Welcome to MagicCraft Skyblock, the first ever Skyblock world that is a functioning realm type Skyblock run by commands and custom trades! Have you ever wanted to play a Skyblock with tons of other players on Pocket Edition and enjoy playing with your best friends inside of your faction then this is the world for you!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/skyblock-magical-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/skyblock-magical-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/skyblock-magical-2.jpg"
+
+      
+   },
+   {  
+      "id":177,
+      "title":"cs_assault",
+      "category":"PvP",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/177/cs_assault.zip",
+      "description":"One of the great Counter-Strike maps, cs_assault. cs_assault is a hostage rescue map. Which means you have to rescue the Hostages from the Warehouse. Well, unfortunately In Minecraft there is always griefers. Which made this gamemode get deleted in the beta versions. Look at the bright side, this map has the Tactical Shield and Radio Commands! And when you throw a grenade, the sound ‘Fire in the hole!’ is played!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/cs-assault-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/cs-assault-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/cs-assault-3.jpg"
+
+      
+   },
+   {  
+      "id":178,
+      "title":"GCS Prison",
+      "category":"PvP",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/178/GCSPrisonV3.zip",
+      "description":"You’ve been sent to jail! Welcome to Prisons. This map features an array of various mines for you to mine ores and other minerals. Once you have gathered up enough experience, you may buy more and better equipment from one or all of the four shops featured at the lobby. As you collect more and more experience, you gain access to better mines, such as the quartz mine, the diamond mine, the emerald mine (coming soon!) and the bonus mine.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/prison-map-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/prison-map-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/prison-map-3.jpg"
+
+      
+   },
+   {  
+      "id":179,
+      "title":"Copy The Banners",
+      "category":"Minigame",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/179/CopyTheBanners.zip",
+      "description":"The objective of the map is to copy the design of the banner standing at the block of gold, get banners and dyes and design the banner as same as you see at gold block after that place on top of crafting table then click button, if you’re correct you will head up to the next banner to copy. The map contain total of 35 banners to copy, the first five is for practice mode only it’s count as your score because these are super easy. It has 3 sets; Set-A, Set-B and Set-C Each set has 10 banners to copy.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/copy-banners-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/copy-banners-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/copy-banners-1.jpg"
+
+      
+   },
+   {  
+      "id":180,
+      "title":"Twelve Eve (Horror)",
+      "category":"Survival",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/180/UPDATE1-TwelveEve.zip",
+      "description":"Twelve Eve is a short horror adventure map with lots of jumpscares to really freak you out. It’s a quite simple story and it will be explained to you as you progress in the map. There is also some custom music to really create a more scary atmosphere. If you’re looking for a quick and creepy horror experience then this is a suitable map for you.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/07/twelve-eve-map-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/07/twelve-eve-map-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/07/twelve-eve-map-3.jpg"
+
+      
+   },
+   {  
+      "id":181,
+      "title":"TNT RUN",
+      "category":"Minigame",
+      "rating":3.5,
+      "link":"https://worldofskins.org/maps/181/TNT RUN.zip",
+      "description":"TNT RUN is a very popular minigame for Minecraft multiplayer. This map can be played with up to 8 players at the same time (but you can also play it alone). There are three different scenarios and two different game difficulties which makes it both unique and an exciting game to play. The objective is to walk or run around the arena without falling into the lava. Every minute that you stay alive you will get a bonus score. You can automatically repair the arena once a game is completed.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/tnt-run-5.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/tnt-run-6.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/tnt-run-4.jpg"
+
+      
+   },
+   {  
+      "id":182,
+      "title":"Untenable 2",
+      "category":"Puzzle",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/182/Untenable_2.zip",
+      "description":"Untenable means ‘Illogical’, a map where nothing makes sense. There are ten levels in which the objective may be anything, from finding a button to doing the most obvious things. The map is made to distract you from your main goal. Can you pass all ten levels? This map is made for versions 1.5 and above (not tested in beta versions).",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/untenable-2-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/untenable-2-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/untenable-2-4.jpg"
+
+      
+   },
+   {  
+      "id":183,
+      "title":"Hide n Seek",
+      "category":"Minigame",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/183/Hide n Seek.zip",
+      "description":"Hide n Seek is a popular minigame for multiplayer games. But this map in particular has a twist to it which makes it possible for you to change the map each round. There are two different maps currently and they include Temple and Pirate Ship and one additional with be added in the future. Before starting you will be able to select a camouflage skin (and that feature was inspired by SkyGames Hide n Seek map).",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/hide-and-seek-gab-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/hide-and-seek-gab-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/hide-and-seek-gab-5.jpg"
+
+      
+   },
+   {  
+      "id":184,
+      "title":"GCS Snipers Vs Thieves",
+      "category":"PvP",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/184/SnipersVsThieves.zip",
+      "description":"Snipers vs Thieves is a multiplayer heist minigame where the thieves have to rob the bank while avoiding getting killed by the snipers. It’s a very intense game with lots of action. One team will be the thieves and the other team will be the snipers. Find out if you have what it takes to be a bank robber, or if you have the abilities to stop one.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/snipers-vs-thieves-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/snipers-vs-thieves-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/snipers-vs-thieves-4.jpg"
+
+      
+   },
+   {  
+      "id":185,
+      "title":"SG Winning Walkers 2",
+      "category":"Parkour",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/185/inning Walker.zip",
+      "description":"Winning Walkers is the strategy game of speed, skill and shortcuts! Start in a certain part of this beautiful map and make your way towards the beacons Follow the Compass The first player to the beacon wins. There are many ways to the beacon which makes this game so fun to play!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/08/winning-walkers-2-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/08/winning-walkers-2-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/08/winning-walkers-2-3.jpg"
+
+      
+   },
+   {  
+      "id":186,
+      "title":"The Curse of the Mandrake",
+      "category":"Survival",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/186/CurseMandrake.zip",
+      "description":"This is a survival spawn in which you will spawn on a ship called Mandrake. Unfortunately it ran around. There are several loot chests on the ship and you can also trade with a a whole lot of passengers on the ship. If you plan on surviving the night it’s extremely important that you prepare by gathering items and trading with the villagers. After surviving the first night you can use Mandrake (the shop) as your home while exploring the rest of this wonderful survival world! You will find a hint at the back of the ship.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/09/mandrake-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/09/mandrake-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/09/mandrake-1.jpg"
+
+      
+   },
+   {  
+      "id":187,
+      "title":"Village of Aphrodite",
+      "category":"Creation",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/187/VillageofAphrodite.zip",
+      "description":"This is a village set on another planet which is covered in luscious rainforests. We built it for a roleplay we are doing on our YouTube channel, which you can check out! This map features a large mountain with a castle on it, a village at the base of the mountain, a port area, and a mini rainforest (sorry we could not cover the entire island with rainforest, it was simply just too big). Thank you for downloading this map, please share with your friends and anyone you know!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/09/village-of-aphrodite-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/09/village-of-aphrodite-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/09/village-of-aphrodite-3.jpg"
+
+      
+   },
+   {  
+      "id":188,
+      "title":"Sand Runner",
+      "category":"Parkour",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/188/SandRunnerRC1.zip",
+      "description":"This is an intense parkour minigame which is inspired by Gravity Runner. In this game it’s all about constantly being on the move as if you are idle for too long you will fall into the void and die. You’ll run on different parkour courses which are made out of sand. As you pass over the sand blocks they fall down so you always have to keep on running in order to complete the level.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/09/sand-runner-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/09/sand-runner-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/09/sand-runner-2.jpg"
+
+      
+   },
+   {  
+      "id":189,
+      "title":"Granny (Horror)",
+      "category":"Adventure",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/189/Granny.zip",
+      "description":"This map is based on a very popular mobile game called Granny which was originally developed by DVloper. You’re trapped inside a creepy house and it’s up to you to find a way out using a hammer, wire cutter and your mind. Just make sure you get out in time and use the different hiding spots to hide from the Granny as she’s crazy and will most definitely hurt you!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/09/granny-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/09/granny-5.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/09/granny-4.jpg"
+
+      
+   },
+   {  
+      "id":190,
+      "title":"SS Olympian Factions Realm",
+      "category":"PvP",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/190/Olympian Factions.zip",
+      "description":"(180 mb size!!) This is a Factions map which works for Realms or local multiplayer servers. It’s very similar to Factions server (if you played one on Java or Bedrock) and should be a top choice if you want to run a Realms server like it. There are is a currency which you can use for buying or selling things in shops. You can also build and claim bases. Just be careful though as there are can be other Factions who might do you harm!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/09/ss-olympain-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/09/ss-olympain-1.jpg",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":191,
+      "title":"SG Fortnite 3.0 (Battle Royale)",
+      "category":"Minigame",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/191/Fortnite.zip",
+      "description":"Fortnite is the massive gaming success of the year. SkyGames has created the amazing game in Minecraft! If you love Fortnite, or just Battle Royale in general, then this is one of the best such maps you will find for Bedrock Edition!",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/09/fortnite-3-0-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/09/sg-fortnite-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/09/sg-fortnite-3.jpg"
+
+      
+   },
+   {  
+      "id":192,
+      "title":"The Dropper!",
+      "category":"Adventure",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/192/the dropper.zip",
+      "description":"The goal of the mini game is to wait the time and jump over the blocks, but without falling into the water if you fall the game is restarted. It’s a simple but very fun minigame! It can be played with up to 30 players! +This is a beta, there may be some bugs",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3205/images/the-dropper_4.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/3205/images/the-dropper_3.png",
+            "preview3":"https://my.mcpedl.com/storage/worlds/3205/images/the-dropper_2.png"
+
+      
+   },
+   {  
+      "id":193,
+      "title":"Escape The Skeleton Dungeon",
+      "category":"Minigame",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/193/Escape The Skeleton Dungeon P2.zip",
+      "description":"You wake up and find yourself trapped in the scary skeleton dungeon! Can you find the hidden passages and make it out this place alive?! – Escape your cell – Get some weapons – Kill the enemies – Find the treasure",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3067/images/escape-the-skeleton-dungeon-part-2_3.jpg",
+            "preview2":"https://my.mcpedl.com/storage/worlds/3067/images/escape-the-skeleton-dungeon-part-2_2.jpg",
+            "preview3":"https://my.mcpedl.com/storage/worlds/3067/images/escape-the-skeleton-dungeon-part-2_7.jpg"
+
+      
+   },
+   {  
+      "id":194,
+      "title":"Luxurious Modern Mansion",
+      "category":"Creation",
+      "new":true,
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/194/Luxurious Modern Mansion v5 BETA.zip",
+      "description":"BETA! The most luxurious, pure and expensive Modern Mansion you’ll want to have is here, with a lot of joy and excitement to come with the design, utilities and privacy of your new home! Easily accessible Studio, with unique design similar to the mansion, and below that is a water tunnel or tube available for emergencies, such as mob raids! Extended seawalls, better studio, overhauled interior and broadcasting tower has been added also for the past few months!",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/1324/images/luxurious-modern-mansion-creation_6.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/1324/images/luxurious-modern-mansion-creation_4.png",
+            "preview3":"https://my.mcpedl.com/storage/worlds/1324/images/luxurious-modern-mansion-creation_14.png"
+
+      
+   },
+   {  
+      "id":196,
+      "title":"Beautiful House",
+      "category":"Creation",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/196/Beautiful House.zip",
+      "description":"On this map you will find a beautiful decorated house. With a room, dining room and several more rooms that are essential in a house of this style, it has become a very familiar courtyard, swimming pool and a small basketball court that make the house look even more luxurious.",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3177/images/beautiful-house_4.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/3177/images/beautiful-house_3.png",
+            "preview3":"https://my.mcpedl.com/storage/worlds/3177/images/beautiful-house_2.png"
+
+      
+   },
+   {  
+      "id":197,
+      "title":"Sea of Flames II",
+      "category":"Minigame",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/197/Sea-of-Flames-II.zip",
+      "description":"This is the first map in a series known as Super Hostile created by Vechs. “Sea of Flames II” takes place in a volcanic environment which poses many challenges to the player. The goal of the map is to complete the Victory Momentum which requires the player to conquer dungeons and overcome obstacles along the way.",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3214/images/super-hostile-01--sea-of-flames-ii_2.png",
+			"preview2":"",
+			"preview3":""
+
+      
+   },
+   {  
+      "id":198,
+      "title":"Tomb Of The Skeleton Kings",
+      "category":"Minigame",
+      "new":true,
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/198/Tomb Of The Skeleton Kings 2.zip",
+      "description":"Do you dare enter the tomb of the skeleton kings and find all the treasure! Be careful of the traps and all the skeleton minions! – Find the lever – Booby Traps – Puzzles – Parkour – 7 hidden diamonds – Defeat the 4 skeleton kings",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/3095/images/tomb-of-the-skeleton-kings-part-1_2.jpg",
+            "preview2":"https://my.mcpedl.com/storage/worlds/3095/images/tomb-of-the-skeleton-kings-part-1_3.jpg",
+            "preview3":"https://my.mcpedl.com/storage/worlds/3095/images/tomb-of-the-skeleton-kings-part-1_4.jpg"
+
+      
+   },
+   {  
+      "id":199,
+      "title":"Fantasy Islands",
+      "category":"Creation",
+      "new":true,
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/199/FANTASY ISLANDS.zip",
+      "description":"Fantasy Islands is a made up theme park with over 50 rides & attractions for you to enjoy! We’ve started work on Kahiti Point, our new waterpark! It’ll be released on the 7th of December! Fantasy Islands is a medium sized theme park with several fun areas worth exploring. Each area is themed around a different topic and they include Roald Dahl, The Lord of the Rings, Castle, Pirates and Horror. It’s really a great mix of everything compressed in one theme park. Some other cool things checking out are the daily fireworks shows, a hotel with many themed rooms and five restaurants.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/11/fantasy-islands-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/11/fantasy-islands-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/11/fantasy-islands-5.jpg"
+
+      
+   },
+   {  
+      "id":200,
+      "title":"Superland 2.0 Realm",
+      "category":"PvP",
+      "new":true,
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/200/SuperLand 2.0.zip",
+      "description":"Welcome To SuperLand 2.0 This Realm Has Had So Many Changes Over The Last 3 Years We Love Making New Games And Much More For All You To Enjoy Keep A Eye Out In 2019 On Our Realm And We Want To Make More Content For You On Here. This map consists of several different minigames combined in one single map. It is best suited for Realms or for local multiplayer as most games are for two players or more. By playing this map you will be able to enjoy PvP games, parkour, Block Party, Bedwars, Speedrun, Drop and Jump, Total Wipeout and much more.",
+  
+            "preview1":"https://mcpedl.com/wp-content/uploads/2018/03/superland-realms-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2018/03/superland-realms-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2018/03/superland-realms-5.jpg"
+
+      
+   },
+   {  
+      "id":201,
+      "title":"Thorpe Park",
+      "category":"Creation",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/201/thorpe.zip",
+      "description":"Escape to Thorpe PE, an island like no other, to ride our 7 roller coasters and over 40 rides & attractions. Fright Nights 2019 has now ended, but 2020 is on its way! Thorpe Park is a theme park in England which we have recreated in Minecraft PE. There are more than 40 different rides and attractions (and that includes everything from roller coasters to water rides). However, it should be noticed that it’s not quite a 1:1  recreation and some attractions have been moved or changed a little to make everything work nicely together, but all of the rides are in the map.",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/514/images/thorpe-park-theme-park-creation_8.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/514/images/thorpe-park-theme-park-creation_7.png",
+            "preview3":"https://my.mcpedl.com/storage/worlds/514/images/thorpe-park-theme-park-creation_6.png"
+
+      
+   },
+   {  
+      "id":202,
+      "title":"Extreme SkyBlock",
+      "category":"Minigame",
+      "new":true,
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/202/ESB_V1.2.zip",
+      "description":"Welcome to this new and engaging SkyBlock adventure! But that’s not just a normal SkyBlock, this is THE SkyBlock you’ve always wanted to play! Discover new ways of surviving with a marketplace where you can buy useful items, daily and monthly challenges that give you special rewards and, most importantly, a whole monument to complete! Discover new Islands, look for hidden treasures, defeat the wither and much more in Extreme SkyBlock. This is a SkyBlock map with many more added features, like a monument to complete, daily and monthly challenges, and a marketplace. This is the main lobby, with some sections that are unlockable just by playing the map.",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/1875/images/extreme-skyblock-beta_4.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/1875/images/extreme-skyblock-beta_3.png",
+            "preview3":"https://my.mcpedl.com/storage/worlds/1875/images/extreme-skyblock_2.png"
+
+      
+   },
+   {  
+      "id":203,
+      "title":"YouTuber Head Parkour!",
+      "category":"Parkour",
+      "new":true,
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/203/YouTuber Head Parkour!.zip",
+      "description":"Hey, my title is CatAstrophe and welcome to the YouTuber Head Parkour Map! I have been working to bring you guys this map, which consists of 20 of our favourite YouTubers incuding Unspeakable, RageElixir, BrandonCrafter, LogZotZip, AGHQ and more! The levels of this map will get harder as you go further in the map. Do you have what it takes to win? Each Head is 8×8 blocks with parkour around it, for you to jump and climb to the top, where you will press a button and be teleported to the next level! The map is situated in the middle of the sky, with a cloudy-themed lobby, where you can find a board of instructions so you know what to do. You can also play this map with your friends!",
+  
+            "preview1":"https://my.mcpedl.com/storage/worlds/2033/images/youtuber-head-parkour_2.png",
+            "preview2":"https://my.mcpedl.com/storage/worlds/2033/images/youtuber-head-parkour_3.png",
+			"preview3":""
+
+      
+   },
+     {  
+      "id":0,
+      "title":"Simple 3: Forbidden Cave",
+      "category":"Adventure",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/0/Simple3vRelease.zip",
+      "description":"The Forbidden Cave is the third part in a series of adventure maps called Simple. This time you will go on a great journey to fight an ancient dragon and hopefully get some treasures by doing so. There are plenty of challenges along the way and the map is really well built in its entirety and this makes it both fun to play and a marvel to explore.",
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/milk-squid-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/simple-3-forbidden-cave-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/simple-3-forbidden-cave-4.jpg"
+   },
+   {  
+      "id":1,
+      "title":"Kirio RPG",
+      "category":"Adventure",
+      "rating":4.2,
+      "link":"https://worldofskins.org/maps/1/KIRIO_rpg_eng_V1.0.zip",
+      "description":"This is an open-world adventure map set in a medieval environment with multiple different towns to visit and quests to complete. You play as a character called Picko who is a brave warrior who fight against evil. It’s very important to read all of the signs you can find as they will provide the necessary information for your progress in the map. Beware, sometimes the English in this map isn’t perfect!",
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/kirio-rpg-1.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/kirio-rpg-4.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/kirio-rpg-3.jpg"    
+   },
+   {  
+      "id":2,
+      "title":"DisneyPark (Theme Park)",
+      "category":"Creation",
+      "rating":4.8,
+      "link":"https://worldofskins.org/maps/2/DisneyPark.zip",
+      "description":"This one of the best theme parks I have ever come across which is specifically created for Minecraft Pocket Edition. In the map you will find lots of different attractions such as roller coasters and even the Cinderella fairy tale castle. No matter whether you have or haven’t been to a Disney Park I highly recommend this map as it’s a very well built and detailed map!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/01/disneypark-5-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/01/disneypark-5-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/01/disneypark-5-1-1.jpg"
+      
+   },
+   {  
+      "id":3,
+      "title":"Fantasy Sky Island",
+      "category":"PvP",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/3/PVPmap.zip",
+      "description":"This is a huge creation which is really useful if you are a big group of players who need a map where you can do your PvP battles. It also looks amazing and it probably took days to build. I would say it’s best suited for 5-20 players even though you can obviously play it with less. There are no specific guidelines for this map so feel free to make up your own.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/01/medieval-sky-island-pvp-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/01/medieval-sky-island-pvp-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/01/medieval-sky-island-pvp-3-e1485335787961.jpg"
+      
+   },
+   {  
+      "id":4,
+      "title":"KeepJumping",
+      "category":"Parkour",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/4/KeepJumping.zip",
+      "description":"To survive this map there is just one thing you have to remember and that is to Keep Jumping! To get from start to finish you need to jump on pressure plates. Once you’ve stood on a pressure plate it will make the block beneath it disappear. This means you’ve always gotta keep moving. It’s a perfect map for anyone who’s up for a hard and intense challenge.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2016/11/keepjumping-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2016/11/keepjumping-5.jpg",
+			"preview3":""
+      
+   },
+   {  
+      "id":5,
+      "title":"The Transforming Room",
+      "category":"Redstone",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/5/TransformingRoom.zip",
+      "description":"This map features the ultimate redstone solution for building a hidden base. By the use of just one button you can switch the appearance for an entire room. There’s of course a much more complex redstone system involved in allowing this process to happen but it shouldn’t be too hard to rebuild in your own world since I’ve added a video tutorial in the bottom of the post.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/the-transforming-room-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/the-transforming-room-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/the-transforming-room-1.jpg"
+      
+   },
+   {  
+      "id":6,
+      "title":"Jurassic Craft World",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/6/Jurassic Craft by Gona.zip",
+      "description":"This map lets you explore Jurassic World in Minecraft Pocket Edition. At the same time it is an incredibly detailed map it’s also amazingly huge. The park includes the Visitor Center, a big hotel, 18 different dinosaur types and much more. It’s really a must-play for anyone who loves Minecraft and dinosaurs!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/jurassic-world-map-9.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/jurassic-world-map-8.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/jurassic-world-map-3.jpg"
+
+      
+   },
+   {  
+      "id":7,
+      "title":"The TARDIS",
+      "category":"Creation",
+      "rating":4.0,
+      "link":"https://worldofskins.org/maps/7/The TARDIS 1.1 Update Made by MicoJP.zip",
+      "description":"Do you consider yourself a true Whovian (also known as a Doctor Who fan)? If that’s the case then you definitely have to download this map and give it a try in-game. The map features a lot of different TARDIS control rooms which are all based on the ones from the Doctor Who TV show. It took roughly one week to complete!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/the-tardis-4.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/the-tardis-1.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/the-tardis-2.jpg"
+      
+   },
+   {  
+      "id":8,
+      "title":"PuzzleMap",
+      "category":"Puzzle",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/8/puzzle.zip",
+      "description":"This map includes 8 different puzzles. It appears as if it most suitable for beginners (based on the difficulty of the map) who have no too much experience with redstone and other basic features in Minecraft which most avid players should be familiar with. It’s nonetheless an enjoyable map with at least 10 minutes worth of gameplay.",
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/puzzlemap-2.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/puzzlemap-1.jpg",
+			"preview3":"https://mcpedl.com/wp-content/uploads/2017/02/puzzlemap-2.jpg"
+
+      
+   },
+   {  
+      "id":9,
+      "title":"20 Piston Creations",
+      "category":"Redstone",
+      "rating":5.0,
+      "link":"https://worldofskins.org/maps/9/20_Piston_Creations.zip",
+      "description":"This map includes 20 different redstone creations and all of them somehow make use of pistons. It’s a great showcase to demonstrate the great variety of things which you can build with redstone and especially piston blocks. Some of the examples include automated farms and clever hidden staircases.",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/20-piston-creations-3.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/20-piston-creations-2.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/20-piston-creations-1.jpg"
+      
+   },
+   {  
+      "id":10,
+      "title":"Achievement World",
+      "category":"Creation",
+      "rating":4.5,
+      "link":"https://worldofskins.org/maps/10/PE Achievements By Cameron.zip",
+      "description":"This map was created to allow you to get all of the achievements in Minecraft PE except for just one which is the Adventuring Time Achievement. The reason for that is because it’s set in a flat world. But other than that you will be able to get 71 out of 72 achievements!",
+
+            "preview1":"https://mcpedl.com/wp-content/uploads/2017/02/achievement-world.jpg",
+            "preview2":"https://mcpedl.com/wp-content/uploads/2017/02/pe-achievements-world-3.jpg",
+            "preview3":"https://mcpedl.com/wp-content/uploads/2017/02/pe-achievements-world-2.jpg"
+
+      
+   }
+
+
+                  ]
+
+          
+           
+			
+			
+           }
+
+             
+      }
